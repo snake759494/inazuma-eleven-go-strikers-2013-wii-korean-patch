@@ -1,0 +1,19480 @@
+{
+"242": [
+{
+"box": [
+10,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+64,
+120,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+64,
+184,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+213,
+64,
+239,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+200,
+62,
+252,
+82
+],
+"clear": "none",
+"text": "진",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+144,
+54,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+115,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "한다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+142,
+188,
+162
+],
+"clear": "none",
+"text": "쇼린",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+209,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+142,
+251,
+162
+],
+"clear": "none",
+"text": "시시도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "맥스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+224,
+122,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+222,
+125,
+242
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+224,
+184,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+224,
+242,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "메가네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+304,
+51,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+302,
+59,
+322
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+304,
+120,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+304,
+178,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+304,
+244,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+302,
+251,
+322
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"243": [
+{
+"box": [
+9,
+64,
+56,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+120,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+62,
+123,
+82
+],
+"clear": "none",
+"text": "다이덴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+64,
+187,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+62,
+190,
+82
+],
+"clear": "none",
+"text": "반조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+64,
+248,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+62,
+251,
+82
+],
+"clear": "none",
+"text": "나루카미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+144,
+55,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "고조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+116,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+142,
+123,
+162
+],
+"clear": "none",
+"text": "헨미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+144,
+184,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+142,
+187,
+162
+],
+"clear": "none",
+"text": "사키야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+144,
+248,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+142,
+251,
+162
+],
+"clear": "none",
+"text": "도멘",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+224,
+52,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+8,
+222,
+60,
+242
+],
+"clear": "none",
+"text": "지몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+224,
+179,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+224,
+248,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+304,
+50,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+304,
+115,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+302,
+123,
+322
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"244": [
+{
+"box": [
+6,
+64,
+58,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+62,
+61,
+82
+],
+"clear": "none",
+"text": "포세이돈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "아폴론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+64,
+183,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "헤파이스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "아레스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+49,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+57,
+162
+],
+"clear": "none",
+"text": "디오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+144,
+122,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+142,
+125,
+162
+],
+"clear": "none",
+"text": "아르테미스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+144,
+183,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "헤르메스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "아테나",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+224,
+55,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "데메테르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+224,
+122,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+222,
+125,
+242
+],
+"clear": "none",
+"text": "아프로디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+147,
+224,
+173,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "헤라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"245": [
+{
+"box": [
+6,
+64,
+58,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+62,
+61,
+82
+],
+"clear": "none",
+"text": "타치무카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+179,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+64,
+248,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+80,
+144,
+116,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+72,
+142,
+124,
+162
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+144,
+178,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+144,
+249,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+142,
+251,
+162
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+224,
+50,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+222,
+59,
+242
+],
+"clear": "none",
+"text": "토코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+224,
+123,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+68,
+222,
+126,
+242
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+180,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+213,
+224,
+238,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+222,
+251,
+242
+],
+"clear": "none",
+"text": "리카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+304,
+50,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "메가네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+304,
+116,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+302,
+123,
+322
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+139,
+304,
+183,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+302,
+187,
+322
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+304,
+251,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+196,
+302,
+254,
+322
+],
+"clear": "none",
+"text": "미도리카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"246": [
+{
+"box": [
+8,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "데자무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+64,
+122,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+62,
+125,
+82
+],
+"clear": "none",
+"text": "아이큐",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+183,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "가니메데",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+64,
+246,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "아이시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "레제",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+119,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "우르비다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+144,
+182,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "메트론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+144,
+246,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "크립토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "마큐어",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "그랑",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+224,
+182,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "디암",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+210,
+224,
+237,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+222,
+249,
+242
+],
+"clear": "none",
+"text": "네로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+304,
+51,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "키브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+304,
+118,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "퀼",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+304,
+182,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+302,
+185,
+322
+],
+"clear": "none",
+"text": "판도라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+304,
+242,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+302,
+250,
+322
+],
+"clear": "none",
+"text": "림",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"247": [
+{
+"box": [
+10,
+64,
+53,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "그렌트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+64,
+113,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "곳카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+62,
+185,
+82
+],
+"clear": "none",
+"text": "바라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "클라라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "봄바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+144,
+113,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "히트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+144,
+182,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "넷파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+144,
+247,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+142,
+251,
+162
+],
+"clear": "none",
+"text": "리오네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+224,
+51,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+222,
+59,
+242
+],
+"clear": "none",
+"text": "도롤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "번",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+179,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "가젤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"248": [
+{
+"box": [
+15,
+64,
+51,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+62,
+59,
+82
+],
+"clear": "none",
+"text": "타케시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+75,
+64,
+120,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+62,
+123,
+82
+],
+"clear": "none",
+"text": "니시가키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+144,
+64,
+177,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "시시도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+212,
+64,
+238,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+62,
+251,
+82
+],
+"clear": "none",
+"text": "진",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+144,
+54,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+118,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "섀도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+142,
+188,
+162
+],
+"clear": "none",
+"text": "쇼린",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+243,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "한다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "맥스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+224,
+119,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+222,
+121,
+242
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+224,
+184,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"249": [
+{
+"box": [
+9,
+64,
+54,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+62,
+121,
+82
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+184,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+62,
+187,
+82
+],
+"clear": "none",
+"text": "토비타카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+64,
+247,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+62,
+249,
+82
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+144,
+113,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+177,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+144,
+246,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "토라마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+224,
+49,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "히로토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+224,
+122,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+222,
+125,
+242
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+224,
+179,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+224,
+243,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+304,
+58,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+302,
+61,
+322
+],
+"clear": "none",
+"text": "타치무카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+304,
+119,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "라이덴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+304,
+178,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+304,
+248,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+302,
+251,
+322
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+384,
+54,
+400
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+382,
+58,
+402
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+384,
+122,
+400
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+382,
+125,
+402
+],
+"clear": "none",
+"text": "미도리카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"250": [
+{
+"box": [
+8,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "나루카미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+183,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "고인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+64,
+247,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "조한",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "지몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+144,
+118,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "유코쿠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+142,
+189,
+162
+],
+"clear": "none",
+"text": "키리가쿠레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+144,
+247,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+142,
+249,
+162
+],
+"clear": "none",
+"text": "사기누마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+224,
+50,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "아라타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+82,
+224,
+110,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "젤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+139,
+224,
+182,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "위즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+224,
+243,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "마키야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+304,
+49,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "히트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+83,
+304,
+109,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "헤라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+304,
+179,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "츠토무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+304,
+247,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+302,
+250,
+322
+],
+"clear": "none",
+"text": "데메테르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"251": [
+{
+"box": [
+11,
+64,
+54,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "폭스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+64,
+114,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "비욘",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "테레스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+208,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+62,
+251,
+82
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "마크",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+75,
+144,
+117,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+142,
+189,
+162
+],
+"clear": "none",
+"text": "창수",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+144,
+250,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+142,
+253,
+162
+],
+"clear": "none",
+"text": "로니조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+224,
+58,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+222,
+61,
+242
+],
+"clear": "none",
+"text": "아프로디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+224,
+119,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "에드거",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+224,
+183,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "코요테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+205,
+224,
+242,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+222,
+249,
+242
+],
+"clear": "none",
+"text": "헹크",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+304,
+58,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+302,
+61,
+322
+],
+"clear": "none",
+"text": "데모니오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+304,
+122,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+302,
+125,
+322
+],
+"clear": "none",
+"text": "라가루트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+304,
+185,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+188,
+322
+],
+"clear": "none",
+"text": "돌핀",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+304,
+246,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+302,
+250,
+322
+],
+"clear": "none",
+"text": "딜런",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"252": [
+{
+"box": [
+6,
+64,
+58,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+62,
+61,
+82
+],
+"clear": "none",
+"text": "아스타로스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+64,
+115,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "네넬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+64,
+186,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+62,
+189,
+82
+],
+"clear": "none",
+"text": "엘펠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "베히모스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+144,
+56,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "베르제브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+119,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "위넬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+144,
+185,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+142,
+188,
+162
+],
+"clear": "none",
+"text": "메피스토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+144,
+250,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+142,
+253,
+162
+],
+"clear": "none",
+"text": "규에르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+224,
+58,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+222,
+61,
+242
+],
+"clear": "none",
+"text": "사타나토스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "세인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+178,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "테스타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"253": [
+{
+"box": [
+9,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "자고멜",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+64,
+115,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "게보",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "부보",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "시니스키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+144,
+53,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+57,
+162
+],
+"clear": "none",
+"text": "다잇코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+75,
+144,
+119,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+142,
+123,
+162
+],
+"clear": "none",
+"text": "드라헤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+142,
+189,
+162
+],
+"clear": "none",
+"text": "산다유",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+144,
+246,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "잇카스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "미스트레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+224,
+120,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "에스카바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+224,
+183,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "바답",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"254": [
+{
+"box": [
+18,
+64,
+46,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "키노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+64,
+113,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "마토로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "미치코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+205,
+64,
+243,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "후유카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "카츠요",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+120,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+142,
+123,
+162
+],
+"clear": "none",
+"text": "타카나시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+144,
+179,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "히로미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+144,
+247,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "오토나시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+19,
+224,
+46,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "마이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+224,
+115,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "나츠미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+147,
+224,
+173,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "마코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+211,
+224,
+237,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "코이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+304,
+49,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+302,
+57,
+322
+],
+"clear": "none",
+"text": "코코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+304,
+114,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "캔",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+304,
+178,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+302,
+185,
+322
+],
+"clear": "none",
+"text": "아라야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+205,
+304,
+243,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+302,
+250,
+322
+],
+"clear": "none",
+"text": "레이카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"255": [
+{
+"box": [
+10,
+64,
+53,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "산고쿠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+118,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "쿠루마다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "키리노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+64,
+243,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "아마기",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+144,
+55,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "신스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+114,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "하마노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+179,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "하야미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "텐마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "신도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+115,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "츠루기",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+224,
+177,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "쿠라마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+224,
+247,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "아오야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+304,
+50,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "이치노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+304,
+113,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "니시키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+304,
+178,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "카리야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+304,
+247,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+302,
+250,
+322
+],
+"clear": "none",
+"text": "카게야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"256": [
+{
+"box": [
+13,
+64,
+52,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "헤비노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+83,
+64,
+110,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "사키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+144,
+64,
+180,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+136,
+62,
+188,
+82
+],
+"clear": "none",
+"text": "에지마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+64,
+249,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+62,
+251,
+82
+],
+"clear": "none",
+"text": "오니즈카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+144,
+55,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "세이도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+144,
+123,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+68,
+142,
+126,
+162
+],
+"clear": "none",
+"text": "하쿠류",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+147,
+144,
+175,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+142,
+187,
+162
+],
+"clear": "none",
+"text": "키야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+144,
+244,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+199,
+142,
+251,
+162
+],
+"clear": "none",
+"text": "린네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+224,
+51,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "유키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+80,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+222,
+123,
+242
+],
+"clear": "none",
+"text": "슈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+148,
+224,
+174,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"257": [
+{
+"box": [
+15,
+64,
+49,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "로코코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+64,
+122,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+62,
+125,
+82
+],
+"clear": "none",
+"text": "월터",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+64,
+184,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "윈디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "지니",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "마론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+75,
+144,
+116,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "신티",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+178,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "유무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+241,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+142,
+249,
+162
+],
+"clear": "none",
+"text": "키토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+224,
+50,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "맥시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+224,
+117,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+222,
+121,
+242
+],
+"clear": "none",
+"text": "고슈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+144,
+224,
+178,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "드라고",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+224,
+242,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "케인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+304,
+58,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+302,
+61,
+322
+],
+"clear": "none",
+"text": "맥콜",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+304,
+118,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "메이거",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+144,
+304,
+177,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "류",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+304,
+245,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+302,
+249,
+322
+],
+"clear": "none",
+"text": "스키드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"258": [
+{
+"box": [
+7,
+64,
+57,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+4,
+62,
+60,
+82
+],
+"clear": "none",
+"text": "피디오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+120,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+71,
+62,
+123,
+82
+],
+"clear": "none",
+"text": "브라지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+177,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+62,
+185,
+82
+],
+"clear": "none",
+"text": "벤토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+64,
+245,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "오토리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "가츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+144,
+113,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "마르코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+142,
+189,
+162
+],
+"clear": "none",
+"text": "안젤로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+144,
+250,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+142,
+253,
+162
+],
+"clear": "none",
+"text": "잔루카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+224,
+53,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+222,
+57,
+242
+],
+"clear": "none",
+"text": "조조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "단테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+224,
+185,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+222,
+188,
+242
+],
+"clear": "none",
+"text": "라파엘레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+224,
+246,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+222,
+249,
+242
+],
+"clear": "none",
+"text": "다니엘레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+304,
+54,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "엔리코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+304,
+122,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+302,
+125,
+322
+],
+"clear": "none",
+"text": "알레산드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+304,
+186,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+302,
+189,
+322
+],
+"clear": "none",
+"text": "주세페",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"259": [
+{
+"box": [
+9,
+64,
+54,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+64,
+114,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+62,
+121,
+82
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+64,
+177,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+62,
+185,
+82
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+144,
+49,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "히로토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+144,
+119,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+144,
+182,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+144,
+241,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+224,
+49,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+224,
+120,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+222,
+123,
+242
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+178,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"260": [
+{
+"box": [
+6,
+64,
+58,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+62,
+61,
+82
+],
+"clear": "none",
+"text": "맛초스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+118,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "스마일",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+64,
+182,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+62,
+185,
+82
+],
+"clear": "none",
+"text": "스트로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "월리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+144,
+54,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+57,
+162
+],
+"clear": "none",
+"text": "데분",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+117,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "치빗",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+177,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "망토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "텐마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+224,
+50,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+222,
+59,
+242
+],
+"clear": "none",
+"text": "드릴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "키모로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+224,
+177,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "페이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"261": [
+{
+"box": [
+15,
+64,
+49,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "자노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+64,
+114,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "메담",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+182,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "워드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "가우라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+142,
+59,
+162
+],
+"clear": "none",
+"text": "드림",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+118,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "쿠오스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+177,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "오르카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "네이라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+224,
+51,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+222,
+59,
+242
+],
+"clear": "none",
+"text": "레이자",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+224,
+115,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "베타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+224,
+182,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "에이남",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+224,
+245,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "알파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+304,
+50,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "감마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"262": [
+{
+"box": [
+6,
+64,
+58,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+62,
+61,
+82
+],
+"clear": "none",
+"text": "미나미사와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "유키무라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+182,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "타이요",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+64,
+245,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "쿠로사키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+144,
+58,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+142,
+61,
+162
+],
+"clear": "none",
+"text": "효도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+114,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "마호로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+178,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "키시베",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+241,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+142,
+249,
+162
+],
+"clear": "none",
+"text": "마카리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+224,
+55,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "소스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "키타키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+224,
+182,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+222,
+185,
+242
+],
+"clear": "none",
+"text": "요시히코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"263": [
+{
+"box": [
+9,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "나미카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+64,
+122,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+62,
+125,
+82
+],
+"clear": "none",
+"text": "류자키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+147,
+64,
+174,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "이데",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+64,
+247,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "하야부사",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+50,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "완다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+144,
+117,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "미츠요시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+144,
+183,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "이소자키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+144,
+242,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "미카도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+19,
+224,
+45,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "키타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+224,
+122,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+222,
+125,
+242
+],
+"clear": "none",
+"text": "센구지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+178,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "고마키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"264": [
+{
+"box": [
+9,
+64,
+55,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "엔길",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+64,
+119,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "고브리스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+64,
+179,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+62,
+187,
+82
+],
+"clear": "none",
+"text": "고즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "메이즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "오그",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+114,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "라세츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+144,
+185,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+132,
+142,
+188,
+162
+],
+"clear": "none",
+"text": "신자미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+144,
+241,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "슈라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+224,
+53,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "슈텐",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+113,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+222,
+121,
+242
+],
+"clear": "none",
+"text": "야샤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+224,
+183,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "자낙",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"265": [
+{
+"box": [
+15,
+64,
+49,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "프란",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+64,
+114,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+62,
+122,
+82
+],
+"clear": "none",
+"text": "아스타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+183,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "마갈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+64,
+246,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+62,
+250,
+82
+],
+"clear": "none",
+"text": "시니아스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+144,
+53,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+57,
+162
+],
+"clear": "none",
+"text": "츄리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+115,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "단테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+144,
+178,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "비올라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+203,
+144,
+245,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "오키드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+15,
+224,
+49,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "카모미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+74,
+224,
+119,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "로터스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+224,
+182,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "모쿠렌",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+207,
+224,
+242,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "라벤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+19,
+304,
+45,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+302,
+58,
+322
+],
+"clear": "none",
+"text": "산",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"266": [
+{
+"box": [
+9,
+64,
+54,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+62,
+57,
+82
+],
+"clear": "none",
+"text": "페이xT",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+64,
+120,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+62,
+123,
+82
+],
+"clear": "none",
+"text": "텐마xS",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+64,
+186,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+62,
+189,
+82
+],
+"clear": "none",
+"text": "유이치xK",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "신도xN",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+7,
+144,
+54,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+4,
+142,
+56,
+162
+],
+"clear": "none",
+"text": "키리노xJ",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+144,
+122,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+142,
+125,
+162
+],
+"clear": "none",
+"text": "아마미야xS",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+144,
+186,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+142,
+189,
+162
+],
+"clear": "none",
+"text": "신스케xR",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+144,
+249,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+252,
+162
+],
+"clear": "none",
+"text": "토브xQ",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+224,
+55,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+222,
+57,
+242
+],
+"clear": "none",
+"text": "페이xB",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+224,
+120,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+68,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "니시키xR",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+224,
+185,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "츠루기xO",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+224,
+250,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+222,
+253,
+242
+],
+"clear": "none",
+"text": "키나코xM",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+6,
+304,
+57,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+3,
+302,
+59,
+322
+],
+"clear": "none",
+"text": "텐마xA",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+304,
+122,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+67,
+302,
+125,
+322
+],
+"clear": "none",
+"text": "자낙xS",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+134,
+304,
+186,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+131,
+302,
+189,
+322
+],
+"clear": "none",
+"text": "SP자나x?",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+304,
+250,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+302,
+253,
+322
+],
+"clear": "none",
+"text": "ＳＡＲＵx?",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"267": [
+{
+"box": [
+9,
+64,
+56,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "미야사카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+64,
+118,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+62,
+121,
+82
+],
+"clear": "none",
+"text": "오토무라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+143,
+64,
+178,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+62,
+186,
+82
+],
+"clear": "none",
+"text": "캇파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+198,
+64,
+250,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+195,
+62,
+253,
+82
+],
+"clear": "none",
+"text": "타마고로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+144,
+49,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+142,
+57,
+162
+],
+"clear": "none",
+"text": "마사토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+144,
+113,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+142,
+122,
+162
+],
+"clear": "none",
+"text": "카논",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+144,
+177,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+142,
+185,
+162
+],
+"clear": "none",
+"text": "타케시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+144,
+246,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+142,
+250,
+162
+],
+"clear": "none",
+"text": "니시가키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+11,
+224,
+54,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "섀도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "나구모",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+178,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+222,
+186,
+242
+],
+"clear": "none",
+"text": "스즈노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+224,
+246,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+222,
+249,
+242
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+304,
+49,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+5,
+302,
+57,
+322
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+79,
+304,
+113,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"268": [
+{
+"box": [
+15,
+64,
+50,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+62,
+58,
+82
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+64,
+118,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+62,
+121,
+82
+],
+"clear": "none",
+"text": "키바야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+64,
+181,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+133,
+62,
+185,
+82
+],
+"clear": "none",
+"text": "고조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+205,
+64,
+242,
+80
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+62,
+249,
+82
+],
+"clear": "none",
+"text": "아오이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+13,
+144,
+51,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+142,
+58,
+162
+],
+"clear": "none",
+"text": "아카네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+144,
+113,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+69,
+142,
+121,
+162
+],
+"clear": "none",
+"text": "미도리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+144,
+184,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+142,
+186,
+162
+],
+"clear": "none",
+"text": "미야비노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+144,
+246,
+160
+],
+"clear": "alpha"
+},
+{
+"box": [
+197,
+142,
+249,
+162
+],
+"clear": "none",
+"text": "유이치",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+14,
+224,
+50,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+6,
+222,
+58,
+242
+],
+"clear": "none",
+"text": "키나코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+78,
+224,
+114,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+222,
+122,
+242
+],
+"clear": "none",
+"text": "타스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+142,
+224,
+180,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+135,
+222,
+187,
+242
+],
+"clear": "none",
+"text": "이나바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+212,
+224,
+236,
+240
+],
+"clear": "alpha"
+},
+{
+"box": [
+198,
+222,
+250,
+242
+],
+"clear": "none",
+"text": "레이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+16,
+304,
+51,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+7,
+302,
+59,
+322
+],
+"clear": "none",
+"text": "토브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+76,
+304,
+116,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+70,
+302,
+122,
+322
+],
+"clear": "none",
+"text": "ＳＡＲＵ",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+147,
+304,
+173,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+134,
+302,
+186,
+322
+],
+"clear": "none",
+"text": "산",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"383": [
+{
+"box": [
+3,
+48,
+48,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+66,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+130,
+48,
+177,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+48,
+232,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+46,
+245,
+66
+],
+"clear": "none",
+"text": "진",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+109,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "한다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+182,
+130
+],
+"clear": "none",
+"text": "쇼린",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "시시도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "맥스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+176,
+116,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+119,
+194
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+130,
+176,
+178,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+181,
+194
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+176,
+236,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "메가네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+45,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+238,
+53,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+240,
+114,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+240,
+171,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+179,
+258
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+240,
+237,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"384": [
+{
+"box": [
+2,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "다이덴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+48,
+180,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+183,
+66
+],
+"clear": "none",
+"text": "반조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+48,
+241,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "나루카미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "고조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+112,
+109,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "헨미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+112,
+177,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "사키야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+112,
+241,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "도멘",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+176,
+45,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "지몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+107,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+115,
+194
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+194,
+176,
+241,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+243,
+194
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+7,
+240,
+43,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+51,
+258
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+240,
+108,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"385": [
+{
+"box": [
+0,
+48,
+52,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+55,
+66
+],
+"clear": "none",
+"text": "포세이돈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "아폴론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+48,
+177,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "헤파이스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "아레스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+43,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "디오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+112,
+116,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+119,
+130
+],
+"clear": "none",
+"text": "아르테미스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+112,
+177,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "헤르메스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+236,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "아테나",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+49,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "데메테르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+176,
+116,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+119,
+194
+],
+"clear": "none",
+"text": "아프로디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+176,
+167,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "헤라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+176,
+237,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+174,
+245,
+194
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+45,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+238,
+53,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+240,
+109,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+65,
+238,
+117,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+240,
+173,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+238,
+181,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+240,
+237,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+238,
+245,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"386": [
+{
+"box": [
+0,
+48,
+52,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+55,
+66
+],
+"clear": "none",
+"text": "타치무카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+112,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+173,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+194,
+48,
+241,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+243,
+66
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+112,
+109,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+65,
+110,
+117,
+130
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+171,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+112,
+242,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+176,
+43,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "토코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+176,
+116,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+119,
+194
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+176,
+173,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+176,
+231,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "리카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+44,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "메가네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+240,
+109,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+240,
+176,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+240,
+244,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+247,
+258
+],
+"clear": "none",
+"text": "미도리카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"387": [
+{
+"box": [
+2,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "데자무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+48,
+116,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+119,
+66
+],
+"clear": "none",
+"text": "아이큐",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+177,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "가니메데",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+48,
+240,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "아이시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+112,
+45,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+110,
+53,
+130
+],
+"clear": "none",
+"text": "레제",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+113,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "우르비다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+112,
+176,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "메트론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "크립토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+5,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "마큐어",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "그랑",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+176,
+176,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "디암",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+204,
+176,
+231,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+243,
+194
+],
+"clear": "none",
+"text": "네로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+240,
+45,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "키브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+240,
+112,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "퀼",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+240,
+176,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+179,
+258
+],
+"clear": "none",
+"text": "판도라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+240,
+236,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "림",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"388": [
+{
+"box": [
+4,
+48,
+47,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "그렌트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+48,
+107,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "곳카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "바라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "클라라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+45,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "봄바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "히트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+112,
+176,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "넷파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+112,
+241,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+110,
+245,
+130
+],
+"clear": "none",
+"text": "리오네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+176,
+45,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "도롤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "번",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+173,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "가젤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+176,
+237,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+174,
+245,
+194
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+45,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+238,
+53,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+240,
+109,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+65,
+238,
+117,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+240,
+173,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+238,
+181,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+240,
+237,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+238,
+245,
+258
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"389": [
+{
+"box": [
+8,
+48,
+44,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "타케시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "니시가키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+48,
+171,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "시시도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+48,
+232,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+46,
+245,
+66
+],
+"clear": "none",
+"text": "진",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+112,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "섀도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+182,
+130
+],
+"clear": "none",
+"text": "쇼린",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+237,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "한다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "맥스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+66,
+176,
+113,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+115,
+194
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+130,
+176,
+178,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+181,
+194
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"390": [
+{
+"box": [
+3,
+48,
+48,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+66,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+178,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+46,
+181,
+66
+],
+"clear": "none",
+"text": "토비타카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+194,
+48,
+241,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+243,
+66
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+171,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "토라마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+176,
+43,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "히로토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+176,
+116,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+119,
+194
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+176,
+173,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+176,
+237,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+240,
+52,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+55,
+258
+],
+"clear": "none",
+"text": "타치무카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+240,
+113,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "라이덴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+240,
+172,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+194,
+240,
+242,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+245,
+258
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+304,
+48,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+302,
+52,
+322
+],
+"clear": "none",
+"text": "쿠리마츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+304,
+116,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+302,
+119,
+322
+],
+"clear": "none",
+"text": "미도리카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"391": [
+{
+"box": [
+2,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "나루카미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+177,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "고인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+48,
+241,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "조한",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+112,
+45,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+110,
+53,
+130
+],
+"clear": "none",
+"text": "지몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+112,
+112,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "유코쿠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+183,
+130
+],
+"clear": "none",
+"text": "키리가쿠레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+194,
+112,
+241,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+243,
+130
+],
+"clear": "none",
+"text": "사기누마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+176,
+44,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "아라타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+76,
+176,
+104,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "젤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+133,
+176,
+176,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "위즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+176,
+237,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "마키야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+43,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "히트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+77,
+240,
+103,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "헤라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+240,
+173,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "츠토무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+240,
+241,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "데메테르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"392": [
+{
+"box": [
+5,
+48,
+48,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "폭스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+48,
+108,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "비욘",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+48,
+171,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "테레스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+202,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+46,
+245,
+66
+],
+"clear": "none",
+"text": "도몬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "마크",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+69,
+112,
+111,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "이치노세",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+112,
+179,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+182,
+130
+],
+"clear": "none",
+"text": "창수",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+112,
+244,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+247,
+130
+],
+"clear": "none",
+"text": "로니조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+176,
+51,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "아프로디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+176,
+112,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "에드거",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+176,
+177,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "코요테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+176,
+236,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "헹크",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+240,
+52,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+55,
+258
+],
+"clear": "none",
+"text": "데모니오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+240,
+116,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+119,
+258
+],
+"clear": "none",
+"text": "라가루트",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+240,
+179,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+182,
+258
+],
+"clear": "none",
+"text": "돌핀",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+240,
+240,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "딜런",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"393": [
+{
+"box": [
+0,
+48,
+52,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+55,
+66
+],
+"clear": "none",
+"text": "아스타로스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+48,
+109,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "네넬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+48,
+180,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+183,
+66
+],
+"clear": "none",
+"text": "엘펠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+48,
+244,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+247,
+66
+],
+"clear": "none",
+"text": "베히모스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+2,
+112,
+50,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+53,
+130
+],
+"clear": "none",
+"text": "베르제브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+113,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "위넬",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+112,
+179,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+182,
+130
+],
+"clear": "none",
+"text": "메피스토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+112,
+244,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+247,
+130
+],
+"clear": "none",
+"text": "규에르",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+176,
+52,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+55,
+194
+],
+"clear": "none",
+"text": "사타나토스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "세인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "테스타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"394": [
+{
+"box": [
+3,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "자고멜",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+48,
+109,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "게보",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "부보",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+48,
+244,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+247,
+66
+],
+"clear": "none",
+"text": "시니스키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+112,
+47,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "다잇코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+69,
+112,
+113,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+65,
+110,
+117,
+130
+],
+"clear": "none",
+"text": "드라헤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+183,
+130
+],
+"clear": "none",
+"text": "산다유",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "잇카스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "미스트레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+176,
+114,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "에스카바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+176,
+177,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "바답",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"395": [
+{
+"box": [
+12,
+48,
+40,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "키노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+48,
+107,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "마토로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "미치코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+48,
+237,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "후유카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "카츠요",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+112,
+113,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "타카나시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+112,
+173,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "히로미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+243,
+130
+],
+"clear": "none",
+"text": "오토나시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+13,
+176,
+40,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "마이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+176,
+109,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "나츠미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+176,
+167,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "마코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+205,
+176,
+231,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "코이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+240,
+43,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+51,
+258
+],
+"clear": "none",
+"text": "코코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+240,
+108,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "캔",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+240,
+172,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+179,
+258
+],
+"clear": "none",
+"text": "아라야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+240,
+237,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "레이카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"396": [
+{
+"box": [
+4,
+48,
+47,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "산고쿠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+112,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "쿠루마다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "키리노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+48,
+237,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "아마기",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+5,
+112,
+49,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+110,
+53,
+130
+],
+"clear": "none",
+"text": "신스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+108,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "하마노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+173,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "하야미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+236,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "텐마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+5,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "신도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+109,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "츠루기",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+176,
+171,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "쿠라마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+176,
+241,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "아오야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+240,
+44,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "이치노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+240,
+107,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "니시키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+240,
+172,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "카리야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+240,
+241,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "카게야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"397": [
+{
+"box": [
+7,
+48,
+45,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "헤비노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+76,
+48,
+103,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "사키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "에지마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+48,
+242,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "오니즈카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+3,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "세이도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+65,
+112,
+117,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+120,
+130
+],
+"clear": "none",
+"text": "하쿠류",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+140,
+112,
+168,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "키야",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+112,
+237,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+193,
+110,
+245,
+130
+],
+"clear": "none",
+"text": "린네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+7,
+176,
+44,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+51,
+194
+],
+"clear": "none",
+"text": "유키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+176,
+107,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "슈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+176,
+167,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "카이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"398": [
+{
+"box": [
+9,
+48,
+43,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "로코코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+48,
+116,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+119,
+66
+],
+"clear": "none",
+"text": "월터",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+48,
+178,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "윈디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "지니",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "마론",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+69,
+112,
+110,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "신티",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+172,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "유무",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+243,
+130
+],
+"clear": "none",
+"text": "키토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+176,
+44,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "맥시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+176,
+111,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+115,
+194
+],
+"clear": "none",
+"text": "고슈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+174,
+181,
+194
+],
+"clear": "none",
+"text": "드라고",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+176,
+236,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "케인",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+240,
+52,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+55,
+258
+],
+"clear": "none",
+"text": "맥콜",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+240,
+112,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "메이거",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+138,
+240,
+171,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "류",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+240,
+239,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+243,
+258
+],
+"clear": "none",
+"text": "스키드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"399": [
+{
+"box": [
+2,
+48,
+51,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+53,
+66
+],
+"clear": "none",
+"text": "피디오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+114,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+65,
+46,
+117,
+66
+],
+"clear": "none",
+"text": "브라지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+171,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "벤토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+48,
+239,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "오토리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "가츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "마르코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+183,
+130
+],
+"clear": "none",
+"text": "안젤로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+112,
+244,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+247,
+130
+],
+"clear": "none",
+"text": "잔루카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+47,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+51,
+194
+],
+"clear": "none",
+"text": "조조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "단테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+176,
+179,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+182,
+194
+],
+"clear": "none",
+"text": "라파엘레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+176,
+240,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+243,
+194
+],
+"clear": "none",
+"text": "다니엘레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+240,
+48,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "엔리코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+240,
+116,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+119,
+258
+],
+"clear": "none",
+"text": "알레산드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+240,
+180,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+183,
+258
+],
+"clear": "none",
+"text": "주세페",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"400": [
+{
+"box": [
+3,
+48,
+48,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+48,
+108,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "후부키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+48,
+171,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+48,
+244,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+247,
+66
+],
+"clear": "none",
+"text": "고엔지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+112,
+43,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "히로토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+112,
+113,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "카베야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+112,
+176,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "카제마루",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+176,
+43,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+66,
+176,
+114,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+117,
+194
+],
+"clear": "none",
+"text": "소메오카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "츠나미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"401": [
+{
+"box": [
+0,
+48,
+52,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+55,
+66
+],
+"clear": "none",
+"text": "맛초스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+112,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "스마일",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+48,
+176,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "스트로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+48,
+244,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+247,
+66
+],
+"clear": "none",
+"text": "월리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+3,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "데분",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+111,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "치빗",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+171,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "망토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+236,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "텐마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+176,
+44,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "드릴",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "키모로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+176,
+171,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "페이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"402": [
+{
+"box": [
+9,
+48,
+43,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "자노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+48,
+108,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "메담",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+176,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "워드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "가우라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+110,
+53,
+130
+],
+"clear": "none",
+"text": "드림",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+112,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "쿠오스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+171,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "오르카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+236,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "네이라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+176,
+45,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "레이자",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+176,
+109,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "베타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+176,
+176,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "에이남",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+176,
+239,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "알파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+240,
+44,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "감마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"403": [
+{
+"box": [
+0,
+48,
+52,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+55,
+66
+],
+"clear": "none",
+"text": "미나미사와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "유키무라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+176,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "타이요",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+48,
+239,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "쿠로사키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+0,
+112,
+52,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+55,
+130
+],
+"clear": "none",
+"text": "효도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+108,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "마호로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+172,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "키시베",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+243,
+130
+],
+"clear": "none",
+"text": "마카리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+3,
+176,
+49,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "소스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "키타키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+176,
+176,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+179,
+194
+],
+"clear": "none",
+"text": "요시히코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"404": [
+{
+"box": [
+2,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+51,
+66
+],
+"clear": "none",
+"text": "나미카와",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+48,
+116,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+119,
+66
+],
+"clear": "none",
+"text": "류자키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+48,
+168,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "이데",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+48,
+241,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "하야부사",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+44,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "완다",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+112,
+112,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "미츠요시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+112,
+177,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "이소자키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+200,
+112,
+236,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "미카도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+13,
+176,
+39,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "키타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+64,
+176,
+116,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+119,
+194
+],
+"clear": "none",
+"text": "센구지",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "고마키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"405": [
+{
+"box": [
+3,
+48,
+49,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "엔길",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "고브리스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+48,
+173,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+46,
+181,
+66
+],
+"clear": "none",
+"text": "고즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "메이즈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+112,
+45,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "오그",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+108,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "라세츠",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+129,
+112,
+179,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+182,
+130
+],
+"clear": "none",
+"text": "신자미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "슈라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+5,
+176,
+47,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "슈텐",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+107,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+115,
+194
+],
+"clear": "none",
+"text": "야샤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+176,
+177,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "자낙",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"406": [
+{
+"box": [
+9,
+48,
+43,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "프란",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+48,
+108,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+116,
+66
+],
+"clear": "none",
+"text": "아스타",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+177,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "마갈",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+48,
+240,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "시니아스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+112,
+47,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "츄리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+109,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "단테",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+112,
+172,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "비올라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+197,
+112,
+239,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "오키드",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+176,
+43,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "카모미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+68,
+176,
+113,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "로터스",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+176,
+176,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "모쿠렌",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+176,
+236,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "라벤",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+13,
+240,
+39,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "산",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"408": [
+{
+"box": [
+3,
+48,
+50,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "미야사카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+112,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "오토무라",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+48,
+172,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "캇파",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+192,
+48,
+244,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+247,
+66
+],
+"clear": "none",
+"text": "타마고로",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+9,
+112,
+43,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "마사토",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+116,
+130
+],
+"clear": "none",
+"text": "카논",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+112,
+171,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+179,
+130
+],
+"clear": "none",
+"text": "타케시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "니시가키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+5,
+176,
+48,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "섀도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "나구모",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+172,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+174,
+180,
+194
+],
+"clear": "none",
+"text": "스즈노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+176,
+240,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+243,
+194
+],
+"clear": "none",
+"text": "겐오",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+240,
+43,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+51,
+258
+],
+"clear": "none",
+"text": "후도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+73,
+240,
+107,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "사쿠마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"409": [
+{
+"box": [
+9,
+48,
+44,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "코구레",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+48,
+112,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "키바야마",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+132,
+48,
+175,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+179,
+66
+],
+"clear": "none",
+"text": "고조",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+48,
+236,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+243,
+66
+],
+"clear": "none",
+"text": "아오이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+7,
+112,
+45,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+52,
+130
+],
+"clear": "none",
+"text": "아카네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "미도리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+131,
+112,
+178,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+180,
+130
+],
+"clear": "none",
+"text": "미야비노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+112,
+240,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+243,
+130
+],
+"clear": "none",
+"text": "유이치",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+8,
+176,
+44,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+174,
+52,
+194
+],
+"clear": "none",
+"text": "키나코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+176,
+108,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+174,
+116,
+194
+],
+"clear": "none",
+"text": "타스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+176,
+174,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+129,
+174,
+181,
+194
+],
+"clear": "none",
+"text": "이나바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+206,
+176,
+230,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+174,
+244,
+194
+],
+"clear": "none",
+"text": "레이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+10,
+240,
+45,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+238,
+53,
+258
+],
+"clear": "none",
+"text": "토브",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+70,
+240,
+110,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+116,
+258
+],
+"clear": "none",
+"text": "ＳＡＲＵ",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+141,
+240,
+167,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "산",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+],
+"410": [
+{
+"box": [
+7,
+48,
+45,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+46,
+52,
+66
+],
+"clear": "none",
+"text": "히비키",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+66,
+48,
+113,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+46,
+115,
+66
+],
+"clear": "none",
+"text": "히토미코",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+137,
+48,
+171,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+46,
+180,
+66
+],
+"clear": "none",
+"text": "쿠도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+196,
+48,
+240,
+64
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+46,
+244,
+66
+],
+"clear": "none",
+"text": "다이스케",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+3,
+112,
+48,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+110,
+51,
+130
+],
+"clear": "none",
+"text": "엔도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+72,
+112,
+107,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+110,
+115,
+130
+],
+"clear": "none",
+"text": "키도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+128,
+112,
+180,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+110,
+183,
+130
+],
+"clear": "none",
+"text": "아프로디",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+201,
+112,
+235,
+128
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+110,
+244,
+130
+],
+"clear": "none",
+"text": "이시도",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+4,
+176,
+50,
+192
+],
+"clear": "alpha"
+},
+{
+"box": [
+1,
+174,
+53,
+194
+],
+"clear": "none",
+"text": "완다바",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+12,
+240,
+40,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+238,
+52,
+258
+],
+"clear": "none",
+"text": "키노",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+67,
+240,
+112,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+238,
+115,
+258
+],
+"clear": "none",
+"text": "오토나시",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+135,
+240,
+173,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+238,
+180,
+258
+],
+"clear": "none",
+"text": "나츠미",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+199,
+240,
+237,
+256
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+238,
+244,
+258
+],
+"clear": "none",
+"text": "후유카",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+7,
+304,
+45,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+0,
+302,
+52,
+322
+],
+"clear": "none",
+"text": "아오이",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+71,
+304,
+109,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+64,
+302,
+116,
+322
+],
+"clear": "none",
+"text": "아카네",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+136,
+304,
+172,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+128,
+302,
+180,
+322
+],
+"clear": "none",
+"text": "미도리",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+195,
+304,
+241,
+320
+],
+"clear": "alpha"
+},
+{
+"box": [
+192,
+302,
+244,
+322
+],
+"clear": "none",
+"text": "오타니",
+"font": "galmuri11b",
+"size": 12,
+"fill": "#ffffff",
+"stroke": [
+1,
+"#000000"
+]
+}
+]
+}

@@ -1,0 +1,5194 @@
+{
+ "666": [
+  {
+   "box": [
+    5,
+    31,
+    22,
+    46
+   ],
+   "clear": "#01b7efff",
+   "text": "풍",
+   "fill": "#ffffff",
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    30,
+    31,
+    46,
+    46
+   ],
+   "clear": "#24ab38ff",
+   "text": "림",
+   "fill": "#ffffff",
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    55,
+    31,
+    71,
+    46
+   ],
+   "clear": "#e60012ff",
+   "text": "화",
+   "fill": "#ffffff",
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    80,
+    31,
+    96,
+    46
+   ],
+   "clear": "#f4a603ff",
+   "text": "산",
+   "fill": "#ffffff",
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    5,
+    215,
+    21,
+    231
+   ],
+   "clear": "#c200f5ff",
+   "text": "무",
+   "fill": "#ffffff",
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    89,
+    226,
+    144,
+    242
+   ],
+   "clear": "alpha",
+   "text": "각성",
+   "fill": [
+    "#ffffff",
+    "#b0c8d8"
+   ],
+   "size": 13,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#1f3962"
+   ]
+  }
+ ],
+ "822": [
+  {
+   "box": [
+    0,
+    51,
+    120,
+    95
+   ],
+   "clear": "alpha",
+   "text": "캐러밴",
+   "fill": [
+    "#fff27a",
+    "#c08a00"
+   ],
+   "size": 34,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#3a2800"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "shadow": [
+    1,
+    2,
+    "#00000080"
+   ]
+  }
+ ],
+ "824": [
+  {
+   "box": [
+    0,
+    51,
+    120,
+    95
+   ],
+   "clear": "alpha",
+   "text": "전리품",
+   "fill": [
+    "#b8f6ff",
+    "#14a0c8"
+   ],
+   "size": 34,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#06384a"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "shadow": [
+    1,
+    2,
+    "#00000080"
+   ]
+  }
+ ],
+ "825": [
+  {
+   "box": [
+    0,
+    49,
+    120,
+    94
+   ],
+   "clear": "alpha",
+   "text": "정보",
+   "fill": [
+    "#c8e4ff",
+    "#2058d0"
+   ],
+   "size": 34,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#081a58"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "shadow": [
+    1,
+    2,
+    "#00000080"
+   ]
+  }
+ ],
+ "826": [
+  {
+   "box": [
+    6,
+    47,
+    114,
+    92
+   ],
+   "clear": "alpha",
+   "text": "부실",
+   "fill": [
+    "#b8b8ff",
+    "#2c2cd0"
+   ],
+   "size": 34,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#10106a"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "shadow": [
+    1,
+    2,
+    "#00000080"
+   ]
+  }
+ ],
+ "712": [
+  {
+   "box": [
+    0,
+    0,
+    79,
+    65
+   ],
+   "clear": "alpha",
+   "text": "패배",
+   "fill": [
+    "#c0d0ff",
+    "#3050c0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    3,
+    "#141c78"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    1,
+    2,
+    "#00000060"
+   ]
+  },
+  {
+   "box": [
+    0,
+    64,
+    81,
+    127
+   ],
+   "clear": "alpha",
+   "text": "승리",
+   "fill": [
+    "#fff27a",
+    "#d08a00"
+   ],
+   "font": "eHv",
+   "stroke": [
+    3,
+    "#0c3a48"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    1,
+    2,
+    "#00000060"
+   ]
+  },
+  {
+   "box": [
+    0,
+    127,
+    120,
+    216
+   ],
+   "clear": "alpha",
+   "text": "우승",
+   "fill": [
+    "#fff27a",
+    "#d08a00"
+   ],
+   "font": "eHv",
+   "stroke": [
+    3,
+    "#0c3a48"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    1,
+    2,
+    "#00000060"
+   ]
+  }
+ ],
+ "2711": [
+  {
+   "box": [
+    8,
+    42,
+    61,
+    57
+   ],
+   "clear": "#04276899",
+   "text": "강함",
+   "fill": "#ffffff",
+   "size": 15,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    147,
+    42,
+    213,
+    57
+   ],
+   "clear": "#04276899",
+   "text": "어시스트",
+   "fill": "#ffffff",
+   "size": 15,
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "606": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "전설의 땅",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "607": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "진·제국학원 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "608": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "라이몬 중 제1그라운드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "609": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "라이몬 중 제2그라운드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "610": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "갓 에덴 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "611": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "홀리 로드 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "612": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "아마노미카도 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "613": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "꽃보라 광장 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "614": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "공명의 나라",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "615": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "로스트 월드 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "616": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "비치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "617": [
+  {
+   "box": [
+    3,
+    90,
+    213,
+    125
+   ],
+   "clear": "vinpaint",
+   "text": "풋볼 프론티어 스타디움",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "valign": "b"
+  }
+ ],
+ "618": [
+  {
+   "box": [
+    2,
+    34,
+    62,
+    58
+   ],
+   "clear": "alpha",
+   "text": "부실",
+   "fill": [
+    "#c8f4ff",
+    "#30b0e0"
+   ],
+   "font": "eHv",
+   "size": 19,
+   "stroke": [
+    2,
+    "#0a2a5a"
+   ],
+   "stroke2": [
+    1,
+    "#ffffff"
+   ]
+  }
+ ],
+ "642": [
+  {
+   "box": [
+    58,
+    86,
+    152,
+    119
+   ],
+   "clear": "inpaint",
+   "text": "랜덤",
+   "fill": [
+    "#fff27a",
+    "#f0a000"
+   ],
+   "font": "eHv",
+   "size": 24,
+   "stroke": [
+    2,
+    "#5a2a00"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  }
+ ],
+ "633": [
+  {
+   "text": "당겨라!\n근성의 이나즈마 캐러밴",
+   "fill": [
+    "#ffffff",
+    "#2040e0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "829": [
+  {
+   "text": "당겨라!\n근성의 이나즈마 캐러밴",
+   "fill": [
+    "#ffffff",
+    "#2040e0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "634": [
+  {
+   "text": "모아라!\n열혈 타이어 펀치",
+   "fill": [
+    "#ffe060",
+    "#e01000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "830": [
+  {
+   "text": "모아라!\n열혈 타이어 펀치",
+   "fill": [
+    "#ffe060",
+    "#e01000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "635": [
+  {
+   "text": "이어라!\n우정의 다이렉트 킥",
+   "fill": [
+    "#e0ff80",
+    "#20a000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff060"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "831": [
+  {
+   "text": "이어라!\n우정의 다이렉트 킥",
+   "fill": [
+    "#e0ff80",
+    "#20a000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff060"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "636": [
+  {
+   "text": "달려라!\n정열의 타이어 대시",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "832": [
+  {
+   "text": "달려라!\n정열의 타이어 대시",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "637": [
+  {
+   "text": "늘어나라!\n한계 고무벨트 슛",
+   "fill": [
+    "#ffffff",
+    "#6020d0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "833": [
+  {
+   "text": "늘어나라!\n한계 고무벨트 슛",
+   "fill": [
+    "#ffffff",
+    "#6020d0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "638": [
+  {
+   "text": "막아라!\n노도의 슛 블록",
+   "fill": [
+    "#ffffff",
+    "#2040e0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "834": [
+  {
+   "text": "막아라!\n노도의 슛 블록",
+   "fill": [
+    "#ffffff",
+    "#2040e0"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#ffe040"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "639": [
+  {
+   "text": "타고 넘어라!\n질주 샌드보드",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "835": [
+  {
+   "text": "타고 넘어라!\n질주 샌드보드",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "640": [
+  {
+   "text": "먹어치워라!\n불꽃의 초매운 라이라이 덮밥",
+   "fill": [
+    "#e0ff80",
+    "#20a000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff060"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "836": [
+  {
+   "text": "먹어치워라!\n불꽃의 초매운 라이라이 덮밥",
+   "fill": [
+    "#e0ff80",
+    "#20a000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff060"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "641": [
+  {
+   "text": "더 이어라!\n회오리 다이렉트 킥",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    8,
+    80,
+    208,
+    124
+   ],
+   "clear": "vinpaint",
+   "size": 20
+  }
+ ],
+ "837": [
+  {
+   "text": "더 이어라!\n회오리 다이렉트 킥",
+   "fill": [
+    "#fff060",
+    "#f07000"
+   ],
+   "font": "eHv",
+   "stroke": [
+    2,
+    "#fff8c0"
+   ],
+   "stroke2": [
+    2,
+    "#2a1400"
+   ],
+   "shadow": [
+    1,
+    1,
+    "#00000080"
+   ],
+   "linegap": 1,
+   "box": [
+    4,
+    2,
+    308,
+    78
+   ],
+   "clear": "alpha",
+   "size": 31
+  }
+ ],
+ "622": [
+  {
+   "box": [
+    1,
+    2,
+    79,
+    42
+   ],
+   "clear": "alpha",
+   "text": "A버튼으로\n참가",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    1,
+    48,
+    79,
+    88
+   ],
+   "clear": "alpha",
+   "text": "a버튼으로\n참가",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    1,
+    93,
+    79,
+    133
+   ],
+   "clear": "alpha",
+   "text": "2버튼으로\n참가",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    1,
+    139,
+    79,
+    164
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 17,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    8,
+    372,
+    72,
+    399
+   ],
+   "clear": "inpaint",
+   "text": "참가 불가",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "653": [
+  {
+   "box": [
+    0,
+    0,
+    152,
+    126
+   ],
+   "clear": "alpha",
+   "text": "싱글\n모드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0a83070"
+   ],
+   "linegap": 6,
+   "align": "l"
+  },
+  {
+   "box": [
+    254,
+    0,
+    506,
+    68
+   ],
+   "clear": "alpha",
+   "text": "트라이애슬론",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0a83070"
+   ],
+   "linegap": 6,
+   "align": "l"
+  },
+  {
+   "box": [
+    0,
+    196,
+    118,
+    322
+   ],
+   "clear": "alpha",
+   "text": "협력\n플레이",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0a83070"
+   ],
+   "linegap": 6,
+   "align": "l"
+  },
+  {
+   "box": [
+    254,
+    196,
+    364,
+    322
+   ],
+   "clear": "alpha",
+   "text": "대전\n플레이",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0a83070"
+   ],
+   "linegap": 6,
+   "align": "l"
+  },
+  {
+   "box": [
+    254,
+    66,
+    400,
+    120
+   ],
+   "clear": "alpha",
+   "text": "모드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0a83070"
+   ],
+   "linegap": 6,
+   "align": "l"
+  }
+ ],
+ "672": [
+  {
+   "box": [
+    2,
+    1,
+    120,
+    19
+   ],
+   "clear": "#0000000a",
+   "text": "테크닉 포인트",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    121,
+    1,
+    174,
+    19
+   ],
+   "clear": "#0000000a",
+   "text": "스피드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    177,
+    1,
+    230,
+    19
+   ],
+   "clear": "#0000000a",
+   "text": "캐치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    2,
+    20,
+    44,
+    39
+   ],
+   "clear": "#0000000a",
+   "text": "킥",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    45,
+    20,
+    88,
+    39
+   ],
+   "clear": "#0000000a",
+   "text": "가드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    89,
+    20,
+    131,
+    39
+   ],
+   "clear": "#0000000a",
+   "text": "보디",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    132,
+    20,
+    222,
+    39
+   ],
+   "clear": "#0000000a",
+   "text": "컨트롤",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  }
+ ],
+ "679": [
+  {
+   "box": [
+    8,
+    1,
+    49,
+    33
+   ],
+   "clear": "alpha",
+   "text": "합체",
+   "fill": [
+    "#ffe080",
+    "#e08a10"
+   ],
+   "font": "eHv",
+   "size": 18,
+   "stroke": [
+    2,
+    "#0f3278"
+   ]
+  },
+  {
+   "box": [
+    52,
+    1,
+    94,
+    33
+   ],
+   "clear": "alpha",
+   "text": "합체",
+   "fill": [
+    "#ffe080",
+    "#e08a10"
+   ],
+   "font": "eHv",
+   "size": 18,
+   "stroke": [
+    2,
+    "#0f3278"
+   ]
+  },
+  {
+   "box": [
+    6,
+    36,
+    68,
+    58
+   ],
+   "clear": "alpha",
+   "text": "레벨",
+   "fill": [
+    "#a0d0ff",
+    "#2a60c0"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#0a1a50"
+   ]
+  },
+  {
+   "box": [
+    6,
+    60,
+    68,
+    82
+   ],
+   "clear": "alpha",
+   "text": "레벨",
+   "fill": [
+    "#a0ffb0",
+    "#30a060"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#0a3020"
+   ]
+  },
+  {
+   "box": [
+    6,
+    84,
+    68,
+    106
+   ],
+   "clear": "alpha",
+   "text": "레벨",
+   "fill": [
+    "#fff080",
+    "#c09000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#3a2a00"
+   ]
+  },
+  {
+   "box": [
+    2,
+    185,
+    40,
+    215
+   ],
+   "clear": "alpha",
+   "text": "화신",
+   "fill": [
+    "#ffe080",
+    "#cc7e0b"
+   ],
+   "font": "eHv",
+   "size": 17,
+   "stroke": [
+    2,
+    "#202040"
+   ]
+  },
+  {
+   "box": [
+    42,
+    185,
+    80,
+    215
+   ],
+   "clear": "alpha",
+   "text": "화신",
+   "fill": [
+    "#ffb0ff",
+    "#9040d0"
+   ],
+   "font": "eHv",
+   "size": 17,
+   "stroke": [
+    2,
+    "#202040"
+   ]
+  },
+  {
+   "box": [
+    1,
+    241,
+    40,
+    263
+   ],
+   "clear": "alpha",
+   "text": "아머드",
+   "fill": [
+    "#fff090",
+    "#c6c44c"
+   ],
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#202040"
+   ]
+  },
+  {
+   "box": [
+    41,
+    241,
+    80,
+    263
+   ],
+   "clear": "alpha",
+   "text": "아머드",
+   "fill": [
+    "#ffb0ff",
+    "#8040d0"
+   ],
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#02338f"
+   ]
+  }
+ ],
+ "688": [
+  {
+   "box": [
+    1,
+    1,
+    57,
+    17
+   ],
+   "clear": "alpha",
+   "text": "기술GET!",
+   "fill": [
+    "#a0f0ff",
+    "#20d0f0"
+   ],
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    1,
+    "#01338f"
+   ]
+  },
+  {
+   "box": [
+    58,
+    1,
+    94,
+    17
+   ],
+   "clear": "alpha",
+   "text": "키즈나",
+   "fill": [
+    "#fff080",
+    "#ffb202"
+   ],
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    1,
+    "#323232"
+   ]
+  },
+  {
+   "box": [
+    1,
+    18,
+    57,
+    35
+   ],
+   "clear": "alpha",
+   "text": "각성!",
+   "fill": [
+    "#ffffff",
+    "#60b0ff"
+   ],
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    1,
+    "#01338f"
+   ]
+  }
+ ],
+ "698": [
+  {
+   "box": [
+    0,
+    0,
+    192,
+    124
+   ],
+   "clear": "alpha",
+   "text": "4팀\n토너먼트",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 48,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0e04070"
+   ],
+   "linegap": 6,
+   "align": "c"
+  },
+  {
+   "box": [
+    0,
+    127,
+    192,
+    250
+   ],
+   "clear": "alpha",
+   "text": "8팀\n토너먼트",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 48,
+   "stroke": [
+    3,
+    "#000000"
+   ],
+   "stroke2": [
+    9,
+    "#f0e04070"
+   ],
+   "linegap": 6,
+   "align": "c"
+  }
+ ],
+ "706": [
+  {
+   "box": [
+    1,
+    2,
+    30,
+    15
+   ],
+   "clear": "alpha",
+   "text": "팀A",
+   "fill": "#ea690e",
+   "font": "galmuri11b",
+   "size": 11
+  },
+  {
+   "box": [
+    35,
+    2,
+    64,
+    15
+   ],
+   "clear": "alpha",
+   "text": "팀B",
+   "fill": "#ea690e",
+   "font": "galmuri11b",
+   "size": 11
+  },
+  {
+   "box": [
+    1,
+    22,
+    30,
+    35
+   ],
+   "clear": "alpha",
+   "text": "팀C",
+   "fill": "#ea690e",
+   "font": "galmuri11b",
+   "size": 11
+  },
+  {
+   "box": [
+    35,
+    22,
+    64,
+    35
+   ],
+   "clear": "alpha",
+   "text": "팀D",
+   "fill": "#ea690e",
+   "font": "galmuri11b",
+   "size": 11
+  }
+ ],
+ "715": [
+  {
+   "box": [
+    1,
+    2,
+    303,
+    69
+   ],
+   "clear": "alpha",
+   "text": "토너먼트 추첨",
+   "fill": [
+    "#fff060",
+    "#e0b000"
+   ],
+   "font": "eHv",
+   "size": 40,
+   "stroke": [
+    3,
+    "#0a3cb0"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    1,
+    3,
+    "#000000"
+   ]
+  }
+ ],
+ "721": [
+  {
+   "box": [
+    2,
+    2,
+    78,
+    38
+   ],
+   "clear": "alpha",
+   "text": "제1시합",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    82,
+    2,
+    158,
+    38
+   ],
+   "clear": "alpha",
+   "text": "제2시합",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    163,
+    2,
+    236,
+    38
+   ],
+   "clear": "alpha",
+   "text": "결승전",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    2,
+    42,
+    78,
+    78
+   ],
+   "clear": "alpha",
+   "text": "제1시합",
+   "fill": [
+    "#a0e0ff",
+    "#1080f0"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#002050"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    82,
+    42,
+    158,
+    78
+   ],
+   "clear": "alpha",
+   "text": "제2시합",
+   "fill": [
+    "#a0e0ff",
+    "#1080f0"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#002050"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    163,
+    42,
+    236,
+    78
+   ],
+   "clear": "alpha",
+   "text": "결승전",
+   "fill": [
+    "#a0e0ff",
+    "#1080f0"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#002050"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    2,
+    82,
+    78,
+    118
+   ],
+   "clear": "alpha",
+   "text": "제1시합",
+   "fill": [
+    "#c0ff80",
+    "#30b020"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#003000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    82,
+    82,
+    158,
+    118
+   ],
+   "clear": "alpha",
+   "text": "제2시합",
+   "fill": [
+    "#c0ff80",
+    "#30b020"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#003000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    163,
+    82,
+    236,
+    118
+   ],
+   "clear": "alpha",
+   "text": "결승전",
+   "fill": [
+    "#c0ff80",
+    "#30b020"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#003000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    2,
+    122,
+    78,
+    158
+   ],
+   "clear": "alpha",
+   "text": "제1시합",
+   "fill": [
+    "#fff080",
+    "#f0c000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#302000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    82,
+    122,
+    158,
+    158
+   ],
+   "clear": "alpha",
+   "text": "제2시합",
+   "fill": [
+    "#fff080",
+    "#f0c000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#302000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    163,
+    122,
+    236,
+    158
+   ],
+   "clear": "alpha",
+   "text": "결승전",
+   "fill": [
+    "#fff080",
+    "#f0c000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#302000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    2,
+    162,
+    78,
+    198
+   ],
+   "clear": "alpha",
+   "text": "제1시합",
+   "fill": [
+    "#ffd080",
+    "#f06000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#401000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    82,
+    162,
+    158,
+    198
+   ],
+   "clear": "alpha",
+   "text": "제2시합",
+   "fill": [
+    "#ffd080",
+    "#f06000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#401000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    163,
+    162,
+    236,
+    198
+   ],
+   "clear": "alpha",
+   "text": "결승전",
+   "fill": [
+    "#ffd080",
+    "#f06000"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#401000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  }
+ ],
+ "823": [
+  {
+   "box": [
+    1,
+    1,
+    75,
+    21
+   ],
+   "clear": "alpha",
+   "text": "목표",
+   "fill": [
+    "#ffe0a0",
+    "#f08a10"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#402000"
+   ]
+  },
+  {
+   "box": [
+    1,
+    21,
+    118,
+    43
+   ],
+   "clear": "alpha",
+   "text": "이나즈마 포인트",
+   "fill": [
+    "#ffe0a0",
+    "#f08a10"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#402000"
+   ]
+  },
+  {
+   "box": [
+    68,
+    44,
+    142,
+    64
+   ],
+   "clear": "alpha",
+   "text": "목표",
+   "fill": [
+    "#ffe0a0",
+    "#f08a10"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#402000"
+   ]
+  }
+ ],
+ "867": [
+  {
+   "box": [
+    61,
+    2,
+    136,
+    46
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#bdbdbd",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#808080"
+   ],
+   "stroke2": [
+    1,
+    "#f0f0f0"
+   ]
+  },
+  {
+   "box": [
+    61,
+    50,
+    136,
+    94
+   ],
+   "clear": "alpha",
+   "text": "시합 중",
+   "fill": [
+    "#ffffff",
+    "#2060d0"
+   ],
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#0a1a50"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    60,
+    96,
+    137,
+    144
+   ],
+   "clear": "alpha",
+   "text": "대전 가능",
+   "fill": [
+    "#ffe060",
+    "#e07000"
+   ],
+   "font": "eHv",
+   "size": 18,
+   "stroke": [
+    2,
+    "#41527a"
+   ],
+   "stroke2": [
+    2,
+    "#ffffc0"
+   ]
+  },
+  {
+   "box": [
+    61,
+    146,
+    136,
+    190
+   ],
+   "clear": "alpha",
+   "text": "미등록",
+   "fill": "#bdbdbd",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#808080"
+   ],
+   "stroke2": [
+    1,
+    "#f0f0f0"
+   ]
+  }
+ ],
+ "901": [
+  {
+   "box": [
+    12,
+    3,
+    66,
+    37
+   ],
+   "clear": "inpaint",
+   "text": "1인 기술",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    12,
+    43,
+    66,
+    77
+   ],
+   "clear": "inpaint",
+   "text": "2인 기술",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    12,
+    83,
+    66,
+    117
+   ],
+   "clear": "inpaint",
+   "text": "3인 기술",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "902": [
+  {
+   "box": [
+    3,
+    58,
+    110,
+    95
+   ],
+   "clear": "alpha",
+   "text": "슛",
+   "fill": [
+    "#ffb060",
+    "#e03000"
+   ],
+   "font": "eHv",
+   "size": 30,
+   "stroke": [
+    2,
+    "#401000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    3,
+    99,
+    110,
+    138
+   ],
+   "clear": "alpha",
+   "text": "드리블",
+   "fill": [
+    "#a0f0ff",
+    "#2060e0"
+   ],
+   "font": "eHv",
+   "size": 30,
+   "stroke": [
+    2,
+    "#0a1a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    3,
+    140,
+    110,
+    178
+   ],
+   "clear": "alpha",
+   "text": "블록",
+   "fill": [
+    "#c0ff80",
+    "#30a010"
+   ],
+   "font": "eHv",
+   "size": 30,
+   "stroke": [
+    2,
+    "#103000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    3,
+    180,
+    110,
+    220
+   ],
+   "clear": "alpha",
+   "text": "키퍼",
+   "fill": [
+    "#ffe080",
+    "#f09000"
+   ],
+   "font": "eHv",
+   "size": 30,
+   "stroke": [
+    2,
+    "#402000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  }
+ ],
+ "903": [
+  {
+   "box": [
+    1,
+    1,
+    87,
+    23
+   ],
+   "clear": "alpha",
+   "text": "발동자",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#606060"
+   ]
+  },
+  {
+   "box": [
+    1,
+    24,
+    87,
+    46
+   ],
+   "clear": "alpha",
+   "text": "파트너",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#606060"
+   ]
+  },
+  {
+   "box": [
+    1,
+    48,
+    87,
+    70
+   ],
+   "clear": "alpha",
+   "text": "라이벌",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 16,
+   "stroke": [
+    2,
+    "#606060"
+   ]
+  }
+ ],
+ "723": [
+  {
+   "box": [
+    2,
+    3,
+    130,
+    93
+   ],
+   "clear": "alpha",
+   "text": "우",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    134,
+    5,
+    247,
+    92
+   ],
+   "clear": "alpha",
+   "text": "승",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    249,
+    4,
+    339,
+    86
+   ],
+   "clear": "alpha",
+   "text": "축",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    343,
+    3,
+    430,
+    82
+   ],
+   "clear": "alpha",
+   "text": "하",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    1,
+    100,
+    83,
+    178
+   ],
+   "clear": "alpha",
+   "text": "합",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    86,
+    100,
+    174,
+    177
+   ],
+   "clear": "alpha",
+   "text": "니",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    179,
+    99,
+    266,
+    176
+   ],
+   "clear": "alpha",
+   "text": "다",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    272,
+    97,
+    350,
+    170
+   ],
+   "clear": "alpha",
+   "text": "!",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    354,
+    98,
+    439,
+    169
+   ],
+   "clear": "alpha",
+   "text": "!",
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "font": "eHv",
+   "size": 72,
+   "stroke": [
+    4,
+    "#0c2a40"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    1,
+    181,
+    224,
+    223
+   ],
+   "clear": "alpha",
+   "text": ""
+  }
+ ],
+ "813": [
+  {
+   "box": [
+    175,
+    415,
+    339,
+    510
+   ],
+   "clear": "alpha",
+   "text": "라이몬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#fff080",
+    "#30b020"
+   ],
+   "stroke": [
+    3,
+    "#5a2a00"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "814": [
+  {
+   "box": [
+    40,
+    414,
+    479,
+    509
+   ],
+   "clear": "alpha",
+   "text": "이나즈마 재팬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#c0f0ff",
+    "#1050e0"
+   ],
+   "stroke": [
+    3,
+    "#f0a000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "815": [
+  {
+   "box": [
+    126,
+    410,
+    391,
+    508
+   ],
+   "clear": "alpha",
+   "text": "신생 라이몬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#fff080",
+    "#f08000"
+   ],
+   "stroke": [
+    3,
+    "#6010a0"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "818": [
+  {
+   "box": [
+    6,
+    330,
+    463,
+    421
+   ],
+   "clear": "alpha",
+   "text": "클리어 축하해!!",
+   "font": "eHv",
+   "size": 64,
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "stroke": [
+    3,
+    "#3a2000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    4,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    20,
+    434,
+    251,
+    492
+   ],
+   "clear": "alpha",
+   "text": "~지상 최강은 누구냐~",
+   "font": "eHv",
+   "size": 24,
+   "fill": [
+    "#fff080",
+    "#30b020"
+   ],
+   "stroke": [
+    3,
+    "#5a2a00"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    141,
+    500,
+    305,
+    596
+   ],
+   "clear": "alpha",
+   "text": "라이몬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#fff080",
+    "#30b020"
+   ],
+   "stroke": [
+    3,
+    "#5a2a00"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "819": [
+  {
+   "box": [
+    6,
+    330,
+    463,
+    421
+   ],
+   "clear": "alpha",
+   "text": "클리어 축하해!!",
+   "font": "eHv",
+   "size": 64,
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "stroke": [
+    3,
+    "#3a2000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    4,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    20,
+    436,
+    250,
+    492
+   ],
+   "clear": "alpha",
+   "text": "~세계 제일을 향한 도전~",
+   "font": "eHv",
+   "size": 24,
+   "fill": [
+    "#c0f0ff",
+    "#1050e0"
+   ],
+   "stroke": [
+    3,
+    "#f0a000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    3,
+    501,
+    442,
+    594
+   ],
+   "clear": "alpha",
+   "text": "이나즈마 재팬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#c0f0ff",
+    "#1050e0"
+   ],
+   "stroke": [
+    3,
+    "#f0a000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "820": [
+  {
+   "box": [
+    6,
+    330,
+    463,
+    421
+   ],
+   "clear": "alpha",
+   "text": "클리어 축하해!!",
+   "font": "eHv",
+   "size": 64,
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "stroke": [
+    3,
+    "#3a2000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    4,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    4,
+    436,
+    266,
+    494
+   ],
+   "clear": "alpha",
+   "text": "~시공 최강을 목표로~",
+   "font": "eHv",
+   "size": 24,
+   "fill": [
+    "#fff080",
+    "#f08000"
+   ],
+   "stroke": [
+    3,
+    "#6010a0"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    92,
+    500,
+    355,
+    595
+   ],
+   "clear": "alpha",
+   "text": "신생 라이몬 편",
+   "font": "eHv",
+   "size": 56,
+   "fill": [
+    "#fff080",
+    "#f08000"
+   ],
+   "stroke": [
+    3,
+    "#6010a0"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    3,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  }
+ ],
+ "821": [
+  {
+   "box": [
+    5,
+    3,
+    422,
+    99
+   ],
+   "clear": "alpha",
+   "text": "축하해!!",
+   "font": "eHv",
+   "size": 80,
+   "fill": [
+    "#fff3a0",
+    "#d89000"
+   ],
+   "stroke": [
+    3,
+    "#3a2000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "oshadow": [
+    2,
+    4,
+    "#00000080"
+   ],
+   "keep_aspect": true
+  },
+  {
+   "box": [
+    32,
+    435,
+    347,
+    523
+   ],
+   "clear": "alpha",
+   "text": "라이몬 올스타의\n시대를 클리어!",
+   "font": "eHv",
+   "size": 34,
+   "fill": [
+    "#fff080",
+    "#f08000"
+   ],
+   "stroke": [
+    3,
+    "#4a2000"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ],
+   "linegap": 2,
+   "keep_aspect": true
+  }
+ ],
+ "852": [
+  {
+   "box": [
+    18,
+    202,
+    100,
+    248
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#ff4223",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    196,
+    236,
+    262
+   ],
+   "clear": "alpha",
+   "text": "a버튼으로\n참가",
+   "fill": "#ff4223",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    3,
+    266,
+    116,
+    334
+   ],
+   "clear": "alpha",
+   "text": "A버튼으로\n참가",
+   "fill": "#ff4223",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    266,
+    236,
+    334
+   ],
+   "clear": "alpha",
+   "text": "2버튼으로\n참가",
+   "fill": "#ff4223",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  }
+ ],
+ "853": [
+  {
+   "box": [
+    18,
+    202,
+    100,
+    248
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#3df3ff",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    196,
+    236,
+    262
+   ],
+   "clear": "alpha",
+   "text": "a버튼으로\n참가",
+   "fill": "#3df3ff",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    3,
+    266,
+    116,
+    334
+   ],
+   "clear": "alpha",
+   "text": "A버튼으로\n참가",
+   "fill": "#3df3ff",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    266,
+    236,
+    334
+   ],
+   "clear": "alpha",
+   "text": "2버튼으로\n참가",
+   "fill": "#3df3ff",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  }
+ ],
+ "854": [
+  {
+   "box": [
+    18,
+    202,
+    100,
+    248
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#73fe34",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    196,
+    236,
+    262
+   ],
+   "clear": "alpha",
+   "text": "a버튼으로\n참가",
+   "fill": "#73fe34",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    3,
+    266,
+    116,
+    334
+   ],
+   "clear": "alpha",
+   "text": "A버튼으로\n참가",
+   "fill": "#73fe34",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    266,
+    236,
+    334
+   ],
+   "clear": "alpha",
+   "text": "2버튼으로\n참가",
+   "fill": "#73fe34",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  }
+ ],
+ "855": [
+  {
+   "box": [
+    18,
+    202,
+    100,
+    248
+   ],
+   "clear": "alpha",
+   "text": "미접속",
+   "fill": "#ffd800",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    196,
+    236,
+    262
+   ],
+   "clear": "alpha",
+   "text": "a버튼으로\n참가",
+   "fill": "#ffd800",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    3,
+    266,
+    116,
+    334
+   ],
+   "clear": "alpha",
+   "text": "A버튼으로\n참가",
+   "fill": "#ffd800",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  },
+  {
+   "box": [
+    122,
+    266,
+    236,
+    334
+   ],
+   "clear": "alpha",
+   "text": "2버튼으로\n참가",
+   "fill": "#ffd800",
+   "font": "eHv",
+   "size": 22,
+   "stroke": [
+    3,
+    "#100402"
+   ],
+   "linegap": 3
+  }
+ ],
+ "856": [
+  {
+   "box": [
+    24,
+    108,
+    190,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    108,
+    188,
+    154
+   ],
+   "clear": "none",
+   "text": "랭킹",
+   "fill": [
+    "#e0ff80",
+    "#40c020"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#0a4010"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "857": [
+  {
+   "box": [
+    24,
+    108,
+    190,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    108,
+    188,
+    154
+   ],
+   "clear": "none",
+   "text": "랭킹",
+   "fill": [
+    "#e0ff80",
+    "#40c020"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#0a4010"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "858": [
+  {
+   "box": [
+    24,
+    108,
+    190,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    6,
+    106,
+    210,
+    156
+   ],
+   "clear": "none",
+   "text": "Wi-Fi 대전",
+   "fill": [
+    "#fff080",
+    "#f05010"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#5a1000"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "859": [
+  {
+   "box": [
+    24,
+    108,
+    190,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    6,
+    106,
+    210,
+    156
+   ],
+   "clear": "none",
+   "text": "Wi-Fi 대전",
+   "fill": [
+    "#fff080",
+    "#f05010"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#5a1000"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "860": [
+  {
+   "box": [
+    26,
+    108,
+    186,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    106,
+    212,
+    156
+   ],
+   "clear": "none",
+   "text": "친구 리스트",
+   "fill": [
+    "#e0f8ff",
+    "#3080f0"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#0a2a6a"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "861": [
+  {
+   "box": [
+    26,
+    108,
+    186,
+    152
+   ],
+   "clear": "vinpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    106,
+    212,
+    156
+   ],
+   "clear": "none",
+   "text": "친구 리스트",
+   "fill": [
+    "#e0f8ff",
+    "#3080f0"
+   ],
+   "font": "eHv",
+   "size": 36,
+   "stroke": [
+    2,
+    "#0a2a6a"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ]
+  }
+ ],
+ "862": [
+  {
+   "box": [
+    27,
+    86,
+    194,
+    204
+   ],
+   "clear": "inpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    22,
+    100,
+    200,
+    200
+   ],
+   "clear": "none",
+   "text": "누군가와\n대전",
+   "fill": [
+    "#fff080",
+    "#f05010"
+   ],
+   "font": "eHv",
+   "size": 34,
+   "stroke": [
+    2,
+    "#5a1000"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ],
+   "linegap": 8
+  }
+ ],
+ "863": [
+  {
+   "box": [
+    27,
+    86,
+    194,
+    204
+   ],
+   "clear": "inpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    22,
+    100,
+    200,
+    200
+   ],
+   "clear": "none",
+   "text": "누군가와\n대전",
+   "fill": [
+    "#fff080",
+    "#f05010"
+   ],
+   "font": "eHv",
+   "size": 34,
+   "stroke": [
+    2,
+    "#5a1000"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ],
+   "linegap": 8
+  }
+ ],
+ "864": [
+  {
+   "box": [
+    25,
+    86,
+    192,
+    203
+   ],
+   "clear": "inpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    20,
+    100,
+    198,
+    200
+   ],
+   "clear": "none",
+   "text": "친구와\n대전",
+   "fill": [
+    "#e0f8ff",
+    "#3080f0"
+   ],
+   "font": "eHv",
+   "size": 34,
+   "stroke": [
+    2,
+    "#0a2a6a"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ],
+   "linegap": 8
+  }
+ ],
+ "865": [
+  {
+   "box": [
+    25,
+    86,
+    192,
+    203
+   ],
+   "clear": "inpaint",
+   "text": ""
+  },
+  {
+   "box": [
+    20,
+    100,
+    198,
+    200
+   ],
+   "clear": "none",
+   "text": "친구와\n대전",
+   "fill": [
+    "#e0f8ff",
+    "#3080f0"
+   ],
+   "font": "eHv",
+   "size": 34,
+   "stroke": [
+    2,
+    "#0a2a6a"
+   ],
+   "stroke2": [
+    3,
+    "#ffffff"
+   ],
+   "linegap": 8
+  }
+ ],
+ "868": [
+  {
+   "box": [
+    266,
+    72,
+    338,
+    99
+   ],
+   "clear": "alpha",
+   "text": "내 주변",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 13,
+   "stroke": [
+    1,
+    "#000000"
+   ],
+   "align": "c"
+  }
+ ],
+ "905": [
+  {
+   "box": [
+    3,
+    2,
+    80,
+    26
+   ],
+   "clear": "alpha",
+   "text": "믹시맥스",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l",
+   "valign": "b"
+  },
+  {
+   "box": [
+    82,
+    2,
+    138,
+    26
+   ],
+   "clear": "alpha",
+   "text": "아머드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l",
+   "valign": "b"
+  },
+  {
+   "box": [
+    140,
+    2,
+    194,
+    26
+   ],
+   "clear": "alpha",
+   "text": "화신 기술",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l",
+   "valign": "b"
+  },
+  {
+   "box": [
+    196,
+    2,
+    252,
+    26
+   ],
+   "clear": "alpha",
+   "text": "합체 기술",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l",
+   "valign": "b"
+  },
+  {
+   "box": [
+    1,
+    32,
+    24,
+    58
+   ],
+   "clear": "alpha",
+   "text": "가",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    26,
+    32,
+    49,
+    58
+   ],
+   "clear": "alpha",
+   "text": "나",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    49,
+    32,
+    72,
+    58
+   ],
+   "clear": "alpha",
+   "text": "다",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    72,
+    32,
+    95,
+    58
+   ],
+   "clear": "alpha",
+   "text": "라",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    96,
+    32,
+    119,
+    58
+   ],
+   "clear": "alpha",
+   "text": "마",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    119,
+    32,
+    142,
+    58
+   ],
+   "clear": "alpha",
+   "text": "바",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    144,
+    32,
+    167,
+    58
+   ],
+   "clear": "alpha",
+   "text": "사",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    168,
+    32,
+    191,
+    58
+   ],
+   "clear": "alpha",
+   "text": "아",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    191,
+    32,
+    214,
+    58
+   ],
+   "clear": "alpha",
+   "text": "자",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    215,
+    32,
+    238,
+    58
+   ],
+   "clear": "alpha",
+   "text": "차",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 20,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "c"
+  },
+  {
+   "box": [
+    3,
+    59,
+    100,
+    83
+   ],
+   "clear": "alpha",
+   "text": "롱 슛",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    109,
+    59,
+    212,
+    83
+   ],
+   "clear": "alpha",
+   "text": "슛 체인",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    3,
+    84,
+    108,
+    106
+   ],
+   "clear": "alpha",
+   "text": "슛 블록",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    111,
+    84,
+    220,
+    106
+   ],
+   "clear": "alpha",
+   "text": "노멀 슛",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    223,
+    84,
+    330,
+    106
+   ],
+   "clear": "alpha",
+   "text": "노멀 블록",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    3,
+    106,
+    82,
+    128
+   ],
+   "clear": "alpha",
+   "text": "P1(펀치)",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    83,
+    106,
+    162,
+    128
+   ],
+   "clear": "alpha",
+   "text": "P2(펀치)",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    164,
+    106,
+    222,
+    128
+   ],
+   "clear": "alpha",
+   "text": "캐치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ],
+   "align": "l"
+  }
+ ],
+ "753": [
+  {
+   "box": [
+    47,
+    16,
+    129,
+    70
+   ],
+   "clear": "inpaint",
+   "text": "풍",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    192,
+    16,
+    274,
+    70
+   ],
+   "clear": "inpaint",
+   "text": "림",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    47,
+    112,
+    129,
+    166
+   ],
+   "clear": "inpaint",
+   "text": "산",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    192,
+    112,
+    274,
+    166
+   ],
+   "clear": "inpaint",
+   "text": "화",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 38,
+   "stroke": [
+    3,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    147,
+    33,
+    188,
+    51
+   ],
+   "clear": "inpaint",
+   "text": "강함",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    67,
+    78,
+    110,
+    96
+   ],
+   "clear": "inpaint",
+   "text": "강함",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    214,
+    86,
+    258,
+    103
+   ],
+   "clear": "inpaint",
+   "text": "강함",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    133,
+    129,
+    176,
+    146
+   ],
+   "clear": "inpaint",
+   "text": "강함",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "771": [
+  {
+   "box": [
+    80,
+    73,
+    184,
+    91
+   ],
+   "clear": "inpaint",
+   "text": "무겐 더 핸드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    96,
+    94,
+    184,
+    111
+   ],
+   "clear": "inpaint",
+   "text": "뻥 펀치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    94,
+    116,
+    208,
+    133
+   ],
+   "clear": "inpaint",
+   "text": "버닝 캐치",
+   "fill": [
+    "#ffe060",
+    "#f09000"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "772": [
+  {
+   "box": [
+    80,
+    73,
+    184,
+    91
+   ],
+   "clear": "inpaint",
+   "text": "무겐 더 핸드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    96,
+    94,
+    184,
+    111
+   ],
+   "clear": "inpaint",
+   "text": "뻥 펀치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    94,
+    116,
+    208,
+    133
+   ],
+   "clear": "inpaint",
+   "text": "버닝 캐치",
+   "fill": [
+    "#ffe060",
+    "#f09000"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "773": [
+  {
+   "box": [
+    80,
+    73,
+    184,
+    91
+   ],
+   "clear": "inpaint",
+   "text": "무겐 더 핸드",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    96,
+    94,
+    184,
+    111
+   ],
+   "clear": "inpaint",
+   "text": "뻥 펀치",
+   "fill": "#ffffff",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    94,
+    116,
+    208,
+    133
+   ],
+   "clear": "inpaint",
+   "text": "버닝 캐치",
+   "fill": [
+    "#ffe060",
+    "#f09000"
+   ],
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    2,
+    "#000000"
+   ]
+  }
+ ],
+ "760": [
+  {
+   "box": [
+    99,
+    53,
+    124,
+    62
+   ],
+   "clear": "inpaint",
+   "text": "텐마",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    73,
+    68,
+    152,
+    79
+   ],
+   "clear": "inpaint",
+   "text": "테크닉 포인트",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ],
+   "align": "l"
+  },
+  {
+   "box": [
+    282,
+    69,
+    307,
+    79
+   ],
+   "clear": "inpaint",
+   "text": "감마",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    86,
+    100,
+    123,
+    114
+   ],
+   "clear": "inpaint",
+   "text": "슛",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    127,
+    100,
+    163,
+    114
+   ],
+   "clear": "inpaint",
+   "text": "드리블",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    169,
+    100,
+    206,
+    114
+   ],
+   "clear": "inpaint",
+   "text": "블록",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    215,
+    100,
+    249,
+    114
+   ],
+   "clear": "inpaint",
+   "text": "키퍼",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    132,
+    125,
+    226,
+    141
+   ],
+   "clear": "inpaint",
+   "text": "마하 윈드",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  }
+ ],
+ "784": [
+  {
+   "box": [
+    83,
+    20,
+    116,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "슛",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    123,
+    20,
+    156,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "드리블",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    163,
+    20,
+    198,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "블록",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    205,
+    20,
+    238,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "키퍼",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    261,
+    38,
+    294,
+    49
+   ],
+   "clear": "inpaint",
+   "text": "자나크",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    273,
+    111,
+    297,
+    122
+   ],
+   "clear": "inpaint",
+   "text": "슈우",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    265,
+    140,
+    307,
+    155
+   ],
+   "clear": "inpaint",
+   "text": "감독",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    124,
+    65,
+    216,
+    81
+   ],
+   "clear": "inpaint",
+   "text": "데빌 버스트",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    130,
+    88,
+    210,
+    104
+   ],
+   "clear": "inpaint",
+   "text": "데스 드롭",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    136,
+    110,
+    204,
+    128
+   ],
+   "clear": "inpaint",
+   "text": "데스 소드",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  }
+ ],
+ "788": [
+  {
+   "box": [
+    83,
+    20,
+    116,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "슛",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    123,
+    20,
+    156,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "드리블",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    163,
+    20,
+    198,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "블록",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    205,
+    20,
+    238,
+    32
+   ],
+   "clear": "inpaint",
+   "text": "키퍼",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    261,
+    38,
+    294,
+    49
+   ],
+   "clear": "inpaint",
+   "text": "자나크",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    273,
+    111,
+    297,
+    122
+   ],
+   "clear": "inpaint",
+   "text": "슈우",
+   "fill": "#ffffff",
+   "font": "galmuri11b",
+   "size": 11,
+   "stroke": [
+    1,
+    "#000000"
+   ]
+  },
+  {
+   "box": [
+    265,
+    140,
+    307,
+    155
+   ],
+   "clear": "inpaint",
+   "text": "감독",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 13,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    118,
+    40,
+    222,
+    56
+   ],
+   "clear": "inpaint",
+   "text": "헌터스 넷",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 15,
+   "stroke": [
+    1,
+    "#ffffff"
+   ]
+  },
+  {
+   "box": [
+    88,
+    62,
+    236,
+    113
+   ],
+   "clear": "inpaint",
+   "text": "블록 기술은\n1개만 장착할 수 있습니다.",
+   "fill": "#303030",
+   "font": "eHv",
+   "size": 14,
+   "stroke": [
+    1,
+    "#ffffff"
+   ],
+   "linegap": 6
+  }
+ ],
+ "769": [
+  {
+   "box": [
+    52,
+    96,
+    266,
+    154
+   ],
+   "clear": "vinpaint",
+   "text": "딥 미스트",
+   "fill": [
+    "#ffffff",
+    "#a0c8ff"
+   ],
+   "font": "eHv",
+   "size": 34,
+   "stroke": [
+    2,
+    "#1a2a9a"
+   ],
+   "stroke2": [
+    2,
+    "#ffffff"
+   ]
+  }
+ ],
+ "786": [
+  {
+   "box": [
+    82,
+    86,
+    220,
+    134
+   ],
+   "clear": "inpaint",
+   "text": "데스 드롭",
+   "fill": [
+    "#ff6070",
+    "#d00020"
+   ],
+   "font": "eHv",
+   "size": 32,
+   "stroke": [
+    2,
+    "#300000"
+   ]
+  }
+ ]
+}

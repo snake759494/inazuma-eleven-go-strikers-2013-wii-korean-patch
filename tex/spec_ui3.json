@@ -1,0 +1,294 @@
+{
+"91": [
+{
+"box": [
+3,
+236,
+220,
+316
+],
+"clear": "alpha",
+"text": "시합 종료",
+"style": "yellow",
+"size": 40
+},
+{
+"box": [
+222,
+236,
+342,
+316
+],
+"clear": "alpha",
+"text": "승리",
+"fill": [
+"#fff4a0",
+"#d09000"
+],
+"stroke": [
+3,
+"#103a20"
+],
+"stroke2": [
+3,
+"#ffffff"
+],
+"font": "eHv",
+"size": 42
+},
+{
+"box": [
+345,
+236,
+500,
+316
+],
+"clear": "alpha",
+"text": "패배",
+"fill": [
+"#c8d4ff",
+"#4a5ad0"
+],
+"stroke": [
+3,
+"#1a1a6a"
+],
+"stroke2": [
+3,
+"#ffffff"
+],
+"font": "eHv",
+"size": 42
+},
+{
+"box": [
+44,
+368,
+262,
+452
+],
+"clear": "alpha",
+"text": "무승부",
+"fill": [
+"#f0ffff",
+"#70b0e0"
+],
+"stroke": [
+3,
+"#103050"
+],
+"stroke2": [
+3,
+"#ffffff"
+],
+"font": "eHv",
+"size": 42
+}
+],
+"99": [
+{
+"box": [
+219,
+45,
+250,
+63
+],
+"clear": "alpha",
+"text": "전반",
+"font": "galmuri11b",
+"fill": "#90c890",
+"stroke": [
+1,
+"#203020"
+]
+},
+{
+"box": [
+262,
+45,
+326,
+63
+],
+"clear": "alpha",
+"text": "연장·전반",
+"font": "galmuri11b",
+"fill": "#90c890",
+"stroke": [
+1,
+"#203020"
+]
+},
+{
+"box": [
+338,
+45,
+370,
+63
+],
+"clear": "alpha",
+"text": "후반",
+"font": "galmuri11b",
+"fill": "#f0a0a8",
+"stroke": [
+1,
+"#302020"
+]
+},
+{
+"box": [
+382,
+45,
+446,
+63
+],
+"clear": "alpha",
+"text": "연장·후반",
+"font": "galmuri11b",
+"fill": "#f0a0a8",
+"stroke": [
+1,
+"#302020"
+]
+}
+],
+"106": [
+{
+"box": [
+386,
+37,
+488,
+71
+],
+"clear": "alpha",
+"text": "남은 사용 횟수",
+"font": "galmuri11b",
+"fill": "#ffc000",
+"stroke": [
+1,
+"#000000"
+],
+"size": 12
+},
+{
+"box": [
+489,
+37,
+511,
+71
+],
+"clear": "alpha",
+"text": "회",
+"font": "galmuri11b",
+"fill": "#ffc000",
+"stroke": [
+1,
+"#000000"
+],
+"size": 12
+}
+],
+"487": [
+{
+"box": [
+3,
+146,
+56,
+165
+],
+"clear": "alpha",
+"text": "자동",
+"font": "galmuri11b",
+"fill": "#ffe600",
+"stroke": [
+1,
+"#000000"
+]
+},
+{
+"box": [
+60,
+143,
+114,
+173
+],
+"clear": "alpha",
+"text": "오리지널\n팀",
+"font": "galmuri",
+"fill": "#ffe600",
+"stroke": [
+1,
+"#000000"
+],
+"size": 11
+},
+{
+"box": [
+118,
+143,
+172,
+173
+],
+"clear": "alpha",
+"text": "오리지널\n팀",
+"font": "galmuri",
+"fill": "#ffe600",
+"stroke": [
+1,
+"#000000"
+],
+"size": 11
+}
+],
+"658": [
+{
+"box": [
+388,
+7,
+445,
+38
+],
+"clear": "alpha",
+"text": "오리지널\n팀",
+"font": "galmuri11b",
+"fill": "#ffe600",
+"stroke": [
+1,
+"#000000"
+],
+"size": 12
+}
+],
+"590": [
+{
+"box": [
+326,
+58,
+532,
+99
+],
+"clear": "inpaint",
+"text": "메인 메뉴",
+"style": "header",
+"size": 33
+}
+],
+"736": [
+{
+"box": [
+484,
+296,
+662,
+368
+],
+"clear": "inpaint",
+"text": "축하해!",
+"font": "eHv",
+"fill": "#141414",
+"stroke": [
+3,
+"#ffffff"
+],
+"size": 40
+}
+]
+}
