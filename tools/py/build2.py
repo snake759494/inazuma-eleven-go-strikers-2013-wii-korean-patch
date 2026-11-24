@@ -88,6 +88,18 @@ def main():
         g = s13.Archive(os.path.join(ORIG, 'grp.bin'))
         g.put_raw(4686, fit(g, 4686, open(mm, 'rb').read()))
         remaps[0] = g.save_inplace(os.path.join(PF, 'grp.bin'))
+    # ---- special-move captions (scn / scn_sh)
+    for ai, an in ((1, 'scn'), (2, 'scn_sh')):
+        outs = sorted(glob.glob(os.path.join(W, 'cap', 'out', an + '_*.bin')))
+        outs = [p for p in outs if os.path.basename(p)[len(an) + 1:-4].isdigit()]
+        if not outs:
+            continue
+        a2 = s13.Archive(os.path.join(ORIG, an + '.bin'))
+        for p in outs:
+            i = int(os.path.basename(p)[len(an) + 1:-4])
+            a2.put_raw(i, fit(a2, i, open(p, 'rb').read()))
+        remaps[ai] = a2.save_inplace(os.path.join(PF, an + '.bin'))
+        print(an, 'captions', len(outs))
     # ---- strap (not in mcb1; may grow and be relocated)
     st = s13.Archive(os.path.join(ORIG, 'strap.bin'))
     for i, t in ((0, 16), (1, 17)):

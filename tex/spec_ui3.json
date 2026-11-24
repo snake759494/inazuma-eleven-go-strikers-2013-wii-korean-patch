@@ -88,67 +88,85 @@
 "99": [
 {
 "box": [
-219,
-45,
-250,
-63
+216,
+44,
+330,
+64
 ],
-"clear": "alpha",
-"text": "전반",
-"font": "galmuri11b",
-"fill": "#90c890",
-"stroke": [
-1,
-"#203020"
-]
+"clear": "alpha"
 },
 {
 "box": [
-262,
-45,
-326,
-63
-],
-"clear": "alpha",
-"text": "연장·전반",
-"font": "galmuri11b",
-"fill": "#90c890",
-"stroke": [
-1,
-"#203020"
-]
-},
-{
-"box": [
-338,
-45,
-370,
-63
-],
-"clear": "alpha",
-"text": "후반",
-"font": "galmuri11b",
-"fill": "#f0a0a8",
-"stroke": [
-1,
-"#302020"
-]
-},
-{
-"box": [
-382,
-45,
+334,
+44,
 446,
-63
+64
 ],
-"clear": "alpha",
-"text": "연장·후반",
+"clear": "alpha"
+},
+{
+"font": "galmuri11b",
+"fill": "#90c890",
+"stroke": [
+1,
+"#203020"
+],
+"box": [
+221,
+46,
+247,
+62
+],
+"clear": "none",
+"text": "전반"
+},
+{
+"font": "galmuri11b",
+"fill": "#90c890",
+"stroke": [
+1,
+"#203020"
+],
+"box": [
+267,
+46,
+322,
+62
+],
+"clear": "none",
+"text": "연장·전반"
+},
+{
 "font": "galmuri11b",
 "fill": "#f0a0a8",
 "stroke": [
 1,
 "#302020"
-]
+],
+"box": [
+341,
+46,
+367,
+62
+],
+"clear": "none",
+"text": "후반"
+},
+{
+"font": "galmuri11b",
+"fill": "#f0a0a8",
+"stroke": [
+1,
+"#302020"
+],
+"box": [
+386,
+46,
+442,
+62
+],
+"clear": "none",
+"text": "연장·후반"
 }
 ],
 "106": [

@@ -248,231 +248,295 @@
    "box": [
     0,
     0,
-    118,
-    84
+    632,
+    352
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    130,
+    352,
+    632,
+    528
+   ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    10,
+    7,
+    113,
+    82
+   ],
+   "clear": "none",
    "text": "상대",
-   "style": "yellow"
+   "style": "yellow",
+   "pad": 0
   },
   {
    "box": [
-    118,
-    0,
-    234,
-    84
+    127,
+    7,
+    231,
+    83
    ],
+   "clear": "none",
    "text": "기권",
-   "style": "yellow"
+   "style": "yellow",
+   "pad": 0
   },
   {
    "box": [
-    248,
-    0,
-    508,
-    84
+    255,
+    7,
+    503,
+    83
    ],
+   "clear": "none",
    "text": "연장전 전반",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    512,
-    0,
-    632,
-    84
+    521,
+    6,
+    623,
+    82
    ],
+   "clear": "none",
    "text": "시작",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    0,
-    84,
-    118,
-    170
+    10,
+    94,
+    114,
+    171
    ],
+   "clear": "none",
    "text": "특훈",
-   "style": "blue"
+   "style": "blue",
+   "pad": 0
   },
   {
    "box": [
-    118,
-    84,
-    234,
-    170
+    130,
+    95,
+    230,
+    171
    ],
+   "clear": "none",
    "text": "종료",
-   "style": "blue"
+   "style": "blue",
+   "pad": 0
   },
   {
    "box": [
-    248,
-    84,
-    508,
-    170
+    260,
+    95,
+    509,
+    171
    ],
+   "clear": "none",
    "text": "연장전 전반",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    512,
-    84,
-    632,
-    170
+    523,
+    95,
+    617,
+    171
    ],
+   "clear": "none",
    "text": "종료",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    0,
-    170,
-    116,
+    11,
+    183,
+    110,
     258
    ],
+   "clear": "none",
    "text": "전반",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    116,
-    170,
-    234,
+    128,
+    182,
+    229,
     258
    ],
+   "clear": "none",
    "text": "시작",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    248,
-    170,
-    508,
-    258
+    254,
+    183,
+    504,
+    259
    ],
+   "clear": "none",
    "text": "연장전 후반",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    512,
-    170,
-    632,
+    522,
+    182,
+    624,
     258
    ],
+   "clear": "none",
    "text": "시작",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    0,
-    258,
-    116,
+    12,
+    271,
+    111,
     346
    ],
+   "clear": "none",
    "text": "전반",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    116,
-    258,
-    234,
-    346
+    124,
+    271,
+    219,
+    347
    ],
+   "clear": "none",
    "text": "종료",
-   "style": "green"
+   "style": "green",
+   "pad": 0
   },
   {
    "box": [
-    248,
     258,
-    508,
-    346
+    271,
+    509,
+    347
    ],
+   "clear": "none",
    "text": "연장전 후반",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    512,
-    258,
-    632,
-    346
+    523,
+    271,
+    617,
+    347
    ],
+   "clear": "none",
    "text": "종료",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    150,
-    350,
-    268,
-    438
+    161,
+    359,
+    263,
+    435
    ],
+   "clear": "none",
    "text": "후반",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    268,
-    350,
-    390,
-    438
+    280,
+    358,
+    382,
+    434
    ],
+   "clear": "none",
    "text": "시작",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    392,
-    350,
-    508,
-    438
+    401,
+    359,
+    503,
+    435
    ],
+   "clear": "none",
    "text": "후반",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    508,
-    350,
-    632,
-    438
+    516,
+    359,
+    611,
+    435
    ],
+   "clear": "none",
    "text": "종료",
-   "style": "pink"
+   "style": "pink",
+   "pad": 0
   },
   {
    "box": [
-    138,
-    440,
-    350,
-    528
+    145,
+    446,
+    340,
+    522
    ],
+   "clear": "none",
    "text": "시합 종료",
-   "style": "yellow"
+   "style": "yellow",
+   "pad": 0
   },
   {
    "box": [
-    366,
-    440,
-    512,
-    528
+    377,
+    448,
+    506,
+    522
    ],
+   "clear": "none",
    "text": "PK전",
-   "style": "yellow"
+   "style": "yellow",
+   "pad": 0
   },
   {
    "box": [
-    512,
-    440,
-    632,
-    528
+    521,
+    446,
+    623,
+    522
    ],
+   "clear": "none",
    "text": "시작",
-   "style": "yellow"
+   "style": "yellow",
+   "pad": 0
   }
  ],
  "93": [
@@ -483,8 +547,18 @@
     202,
     68
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    9,
+    9,
+    197,
+    64
+   ],
    "text": "파울",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -493,8 +567,18 @@
     454,
     68
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    219,
+    9,
+    449,
+    64
+   ],
    "text": "오프사이드",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -503,8 +587,18 @@
     265,
     141
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    15,
+    81,
+    260,
+    137
+   ],
    "text": "스로인",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -513,8 +607,18 @@
     300,
     214
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    8,
+    152,
+    295,
+    210
+   ],
    "text": "골킥",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -523,8 +627,18 @@
     354,
     285
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    10,
+    225,
+    349,
+    281
+   ],
    "text": "코너킥",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -533,8 +647,18 @@
     269,
     341
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    8,
+    295,
+    264,
+    337
+   ],
    "text": "슛 블록",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -543,8 +667,18 @@
     265,
     397
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    12,
+    352,
+    260,
+    393
+   ],
    "text": "슛 체인",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   }
  ],
  "94": [
@@ -555,8 +689,18 @@
     117,
     88
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    8,
+    7,
+    112,
+    84
+   ],
    "text": "특훈",
-   "style": "blue"
+   "style": "blue",
+   "clear": "none"
   },
   {
    "box": [
@@ -565,8 +709,18 @@
     247,
     88
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    128,
+    7,
+    242,
+    84
+   ],
    "text": "시작",
-   "style": "blue"
+   "style": "blue",
+   "clear": "none"
   },
   {
    "box": [
@@ -575,8 +729,18 @@
     247,
     175
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    128,
+    93,
+    242,
+    171
+   ],
    "text": "종료",
-   "style": "blue"
+   "style": "blue",
+   "clear": "none"
   },
   {
    "box": [
@@ -585,8 +749,18 @@
     117,
     166
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    12,
+    110,
+    112,
+    162
+   ],
    "text": "미스",
-   "style": "banner"
+   "style": "banner",
+   "clear": "none"
   },
   {
    "box": [
@@ -595,8 +769,18 @@
     243,
     261
    ],
+   "clear": "alpha"
+  },
+  {
+   "box": [
+    10,
+    201,
+    238,
+    257
+   ],
    "text": "미니게임",
-   "style": "blue"
+   "style": "blue",
+   "clear": "none"
   }
  ]
 }

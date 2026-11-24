@@ -46,6 +46,16 @@ def find_windows():
 
 def shot(path):
     from PIL import Image
+    import glob, shutil
+    fd = os.path.join(os.path.dirname(DOL), 'User', 'Dump', 'Frames')
+    fr = sorted(glob.glob(os.path.join(fd, '*.png')), key=os.path.getmtime)
+    if fr:
+        time.sleep(0.3)
+        Image.open(fr[-2] if len(fr) > 1 else fr[-1]).convert('RGB').save(path)
+        for f in fr[:-1]:
+            try: os.remove(f)
+            except OSError: pass
+        print('captured dump'); return
     wins = find_windows()
     # render window: largest client area whose title isn't the main 'Dolphin' list window or a title containing game id
     wins.sort(key=lambda w: -(w[2] * w[3]))

@@ -7,18 +7,18 @@ Wii 일본판 **이나즈마 일레븐 GO 스트라이커즈 2013(イナズマ�
 - **게임 글꼴:** 3종에 한글 2,351자 (원본 글꼴의 한자 칸 재사용)
 - **그림 글자:** 약 1,250장
   - 메인 메뉴 아이콘·로고, 화면 제목 약 100종, 시합 배너(전반 시작·파울·코너킥 등)
-  - 필살기 컷인 420장, 얼굴 이름표 387장, 세로 명판 57장
+  - 필살기 컷인 420장, 필살기 발동 자막 444종, 얼굴 이름표 387장, 세로 명판 57장
   - 스타디움·미니게임 제목, 결과·순위·토너먼트 표시, 스트랩 안내 화면 등
 - **오프닝 동영상:** 일본어 가사는 그대로 두고 바로 아래에 한글 가사를 한 줄로 넣었습니다(4:3·16:9 모두).
 - **타이틀 로고:** 원래 로고를 가리지 않도록 아래에 작게 「이나즈마 일레븐 GO 스트라이커즈 2013」을 넣었습니다.
 
-현재 배포판은 **v1.0 (2026-11-23)**입니다.
+현재 배포판은 **v1.0.1 (2026-11-25)**입니다.
 
 [패치 다운로드](https://github.com/snake759494/inazuma-eleven-go-strikers-2013-wii-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
 ![타이틀](docs/images/02_title.png)
 
-릴리즈에 첨부한 파일은 한글패치 **IE_GO_Strikers_2013_Wii_KO_v1.0.xdelta** 하나입니다.
+릴리즈에 첨부한 파일은 한글패치 **IE_GO_Strikers_2013_Wii_KO_v1.0.1.xdelta** 하나입니다.
 
 저장소에는 제작 소스와 한국어 번역만 공개합니다. 다음 파일은 넣지 않았습니다.
 - 원본 디스크 이미지와 패치를 적용한 디스크 이미지
@@ -44,11 +44,11 @@ GitHub가 자동으로 만드는 Source code ZIP/TAR는 저장소 소스를 압�
 | 원본 ISO SHA-1 | `dd1dd08f89ba557b400abf18aea3d377b0362c4f` |
 | 원본 ISO SHA-256 | `affd7475436bb31e5f49f2fe3e7a2cd3449467a2d48f50420c19c229781dfbee` |
 | (참고) RVZ로 받은 경우 RVZ MD5 | `293cb5855d69b0355eb3ea95bfd972e2` |
-| xdelta 파일 크기 | 409,770,772 바이트 |
-| xdelta SHA-256 | `dbd2b1f28de2786813dcaacde19828b4e7d0f987fa296ae95c9e173efd43da31` |
+| xdelta 파일 크기 | 934,549,365 바이트 |
+| xdelta SHA-256 | `5fe419d9c61b725890a0ea377bd8afff576a3e0e1cc937cea0903143852c33e1` |
 | 적용 결과 ISO 크기 | 4,699,979,776 바이트 |
-| 적용 결과 ISO SHA-1 | `0fa2a2b4aeaed21fd2d7d80e505993d3e861d6ac` |
-| 적용 결과 ISO SHA-256 | `4ed89d3e98722f2fee0f90fb7e905a13c42e443d2871a6e9b96255b596fd4a49` |
+| 적용 결과 ISO SHA-1 | `95d8ecead61368f40712a7ba752d3ab109edb58f` |
+| 적용 결과 ISO SHA-256 | `d8a4a72244e8824cf0fa3f83b199480ed5abfbe8c0dc9117cdf6b028014e3d28` |
 
 원본 게임 파일은 사용자가 직접 준비해야 합니다.
 
@@ -77,7 +77,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Inazuma Eleven Go - Strikers 2013 (J
 
 ### 3. xdelta UI로 적용
 
-1. 릴리즈에서 `IE_GO_Strikers_2013_Wii_KO_v1.0.xdelta`를 받습니다.
+1. 릴리즈에서 `IE_GO_Strikers_2013_Wii_KO_v1.0.1.xdelta`를 받습니다.
 2. xdelta3 패치를 지원하는 도구에서 **Apply Patch** 기능을 엽니다.
 3. **Patch**에는 xdelta 파일을, **Source File**에는 해시가 일치하는 원본 `.iso`를 선택합니다.
 4. **Output File**에는 새 파일 이름을 지정합니다(예: `Inazuma Eleven Go - Strikers 2013 (Korean).iso`).
@@ -87,7 +87,7 @@ xdelta는 호환성을 위해 압축·2차 압축·파일 경로 헤더 없이 �
 ### 명령줄로 적용
 
 ```powershell
-.\xdelta3.exe -d -s '.\Inazuma Eleven Go - Strikers 2013 (Japan).iso' '.\IE_GO_Strikers_2013_Wii_KO_v1.0.xdelta' '.\Inazuma Eleven Go - Strikers 2013 (Korean).iso'
+.\xdelta3.exe -d -s '.\Inazuma Eleven Go - Strikers 2013 (Japan).iso' '.\IE_GO_Strikers_2013_Wii_KO_v1.0.1.xdelta' '.\Inazuma Eleven Go - Strikers 2013 (Korean).iso'
 ```
 
 결과 ISO는 Dolphin에서 그대로 실행하거나, 원하면 다시 RVZ로 변환해 보관해도 됩니다.
