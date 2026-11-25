@@ -83,10 +83,12 @@ def main():
     remaps[3] = u.save_inplace(os.path.join(PF, 'ui.bin'))
     print('ui entries', len(u.replaced))
     # ---- grp (main menu icons)
-    mm = os.path.join(W, 'tex', 'mm', '4686.new')
-    if os.path.exists(mm):
+    news = glob.glob(os.path.join(W, 'tex', 'mm', '*.new')) + glob.glob(os.path.join(W, 'tex', 'grp', '*.new'))
+    if news:
         g = s13.Archive(os.path.join(ORIG, 'grp.bin'))
-        g.put_raw(4686, fit(g, 4686, open(mm, 'rb').read()))
+        for p in news:
+            gi = int(os.path.basename(p)[:-4])
+            g.put_raw(gi, fit(g, gi, open(p, 'rb').read()))
         remaps[0] = g.save_inplace(os.path.join(PF, 'grp.bin'))
     # ---- special-move captions (scn / scn_sh)
     for ai, an in ((1, 'scn'), (2, 'scn_sh')):
