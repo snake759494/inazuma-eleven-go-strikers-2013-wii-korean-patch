@@ -1,10 +1,10 @@
 {
- "version": "v1.0.1",
+ "version": "v1.0.2",
  "date": "2026-11-25",
  "game": "Inazuma Eleven Go - Strikers 2013 (Japan) / S5SJHF / Wii (ISO)",
- "asset": "IE_GO_Strikers_2013_Wii_KO_v1.0.1.xdelta",
- "asset_size": 934549365,
- "asset_sha256": "5fe419d9c61b725890a0ea377bd8afff576a3e0e1cc937cea0903143852c33e1",
+ "asset": "IE_GO_Strikers_2013_Wii_KO_v1.0.2.xdelta",
+ "asset_size": 934568458,
+ "asset_sha256": "d861d488106a158bd0ef00050424784a78c5b6ba41f2e049840a229b00505808",
  "xdelta_options": "xdelta3 -e -0 -S none -A -B 2147483648 (no compression, no secondary compression, no application header)",
  "source_iso_size": 4699979776,
  "source_iso_md5": "536a55a6703e4789e3652a180f8c91fa",
@@ -12,7 +12,7 @@
  "source_iso_sha256": "affd7475436bb31e5f49f2fe3e7a2cd3449467a2d48f50420c19c229781dfbee",
  "source_rvz_md5": "293cb5855d69b0355eb3ea95bfd972e2",
  "output_iso_size": 4699979776,
- "output_iso_md5": "481592c427a57a1cabb42b4e2d78840c",
- "output_iso_sha1": "95d8ecead61368f40712a7ba752d3ab109edb58f",
- "output_iso_sha256": "d8a4a72244e8824cf0fa3f83b199480ed5abfbe8c0dc9117cdf6b028014e3d28"
+ "output_iso_md5": "3f824b53c8bec4590a1a5de0d3de6562",
+ "output_iso_sha1": "8f4c65ef85786d00aac026d7e1f3f55f17f19cdc",
+ "output_iso_sha256": "cd7369c339145f4a35c9c54db22fda91b41c52624058f451efe35e76fda622cd"
 }

@@ -32,7 +32,14 @@ def load_tr():
     return tr
 
 
+_ZFIX = str.maketrans({'!': '！', '?': '？', '.': '．', ',': '，'})
+
+
 def enc(s):
+    # half-width punctuation is drawn raised when a #z (scale) code is active
+    if '#z' in s:
+        import re as _re
+        s = ''.join(p if p.startswith('#') else p.translate(_ZFIX) for p in _re.split(r'(#[A-Za-z]+[-0-9]*|#x[0-9]+|#=)', s))
     try:
         return kor.encode(s)
     except UnicodeEncodeError as e:
